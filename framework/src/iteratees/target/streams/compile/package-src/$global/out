@@ -1,0 +1,15 @@
+[0m[[0minfo[0m] [0mPackaging /home/shanai/play/play-2.1.3-dash/framework/src/iteratees/target/scala-2.10/play-iteratees_2.10-2.1.3-sources.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	play/api/libs/iteratee/Enumeratee.scala[0m
+[0m[[0mdebug[0m] [0m	  /home/shanai/play/play-2.1.3-dash/framework/src/iteratees/src/main/scala/play/api/libs/iteratee/Enumeratee.scala[0m
+[0m[[0mdebug[0m] [0m	play/api/libs/iteratee/Concurrent.scala[0m
+[0m[[0mdebug[0m] [0m	  /home/shanai/play/play-2.1.3-dash/framework/src/iteratees/src/main/scala/play/api/libs/iteratee/Concurrent.scala[0m
+[0m[[0mdebug[0m] [0m	play/api/libs/iteratee/package.scala[0m
+[0m[[0mdebug[0m] [0m	  /home/shanai/play/play-2.1.3-dash/framework/src/iteratees/src/main/scala/play/api/libs/iteratee/package.scala[0m
+[0m[[0mdebug[0m] [0m	play/api/libs/iteratee/Iteratee.scala[0m
+[0m[[0mdebug[0m] [0m	  /home/shanai/play/play-2.1.3-dash/framework/src/iteratees/src/main/scala/play/api/libs/iteratee/Iteratee.scala[0m
+[0m[[0mdebug[0m] [0m	play/api/libs/iteratee/Enumerator.scala[0m
+[0m[[0mdebug[0m] [0m	  /home/shanai/play/play-2.1.3-dash/framework/src/iteratees/src/main/scala/play/api/libs/iteratee/Enumerator.scala[0m
+[0m[[0mdebug[0m] [0m	play/api/libs/iteratee/TraversableIteratee.scala[0m
+[0m[[0mdebug[0m] [0m	  /home/shanai/play/play-2.1.3-dash/framework/src/iteratees/src/main/scala/play/api/libs/iteratee/TraversableIteratee.scala[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

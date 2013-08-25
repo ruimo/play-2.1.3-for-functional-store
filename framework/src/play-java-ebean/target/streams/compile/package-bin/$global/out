@@ -1,0 +1,27 @@
+[0m[[0minfo[0m] [0mPackaging /home/shanai/play/play-2.1.3-dash/framework/src/play-java-ebean/target/scala-2.10/play-java-ebean_2.10-2.1.3.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	play/db[0m
+[0m[[0mdebug[0m] [0m	  /home/shanai/play/play-2.1.3-dash/framework/src/play-java-ebean/target/scala-2.10/classes/play/db[0m
+[0m[[0mdebug[0m] [0m	play/db/ebean/Transactional.class[0m
+[0m[[0mdebug[0m] [0m	  /home/shanai/play/play-2.1.3-dash/framework/src/play-java-ebean/target/scala-2.10/classes/play/db/ebean/Transactional.class[0m
+[0m[[0mdebug[0m] [0m	play/db/ebean/Model.class[0m
+[0m[[0mdebug[0m] [0m	  /home/shanai/play/play-2.1.3-dash/framework/src/play-java-ebean/target/scala-2.10/classes/play/db/ebean/Model.class[0m
+[0m[[0mdebug[0m] [0m	ebean.properties[0m
+[0m[[0mdebug[0m] [0m	  /home/shanai/play/play-2.1.3-dash/framework/src/play-java-ebean/target/scala-2.10/classes/ebean.properties[0m
+[0m[[0mdebug[0m] [0m	play/db/ebean/EbeanPlugin.class[0m
+[0m[[0mdebug[0m] [0m	  /home/shanai/play/play-2.1.3-dash/framework/src/play-java-ebean/target/scala-2.10/classes/play/db/ebean/EbeanPlugin.class[0m
+[0m[[0mdebug[0m] [0m	play.plugins[0m
+[0m[[0mdebug[0m] [0m	  /home/shanai/play/play-2.1.3-dash/framework/src/play-java-ebean/target/scala-2.10/classes/play.plugins[0m
+[0m[[0mdebug[0m] [0m	play[0m
+[0m[[0mdebug[0m] [0m	  /home/shanai/play/play-2.1.3-dash/framework/src/play-java-ebean/target/scala-2.10/classes/play[0m
+[0m[[0mdebug[0m] [0m	play/db/ebean/TransactionalAction$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/shanai/play/play-2.1.3-dash/framework/src/play-java-ebean/target/scala-2.10/classes/play/db/ebean/TransactionalAction$1.class[0m
+[0m[[0mdebug[0m] [0m	play/db/ebean/TransactionalAction.class[0m
+[0m[[0mdebug[0m] [0m	  /home/shanai/play/play-2.1.3-dash/framework/src/play-java-ebean/target/scala-2.10/classes/play/db/ebean/TransactionalAction.class[0m
+[0m[[0mdebug[0m] [0m	play/db/ebean[0m
+[0m[[0mdebug[0m] [0m	  /home/shanai/play/play-2.1.3-dash/framework/src/play-java-ebean/target/scala-2.10/classes/play/db/ebean[0m
+[0m[[0mdebug[0m] [0m	play/db/ebean/Model$Finder.class[0m
+[0m[[0mdebug[0m] [0m	  /home/shanai/play/play-2.1.3-dash/framework/src/play-java-ebean/target/scala-2.10/classes/play/db/ebean/Model$Finder.class[0m
+[0m[[0mdebug[0m] [0m	play/db/ebean/EbeanPlugin$WrappingDatasource.class[0m
+[0m[[0mdebug[0m] [0m	  /home/shanai/play/play-2.1.3-dash/framework/src/play-java-ebean/target/scala-2.10/classes/play/db/ebean/EbeanPlugin$WrappingDatasource.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

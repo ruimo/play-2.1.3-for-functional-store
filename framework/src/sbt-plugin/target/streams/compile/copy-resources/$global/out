@@ -1,0 +1,5 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/shanai/play/play-2.1.3-dash/framework/src/sbt-plugin/target/scala-2.9.2/sbt-0.12/resource_managed/main/sbt/sbt.plugins,/home/shanai/play/play-2.1.3-dash/framework/src/sbt-plugin/target/scala-2.9.2/sbt-0.12/classes/sbt/sbt.plugins)[0m
+[0m[[0mdebug[0m] [0m	(/home/shanai/play/play-2.1.3-dash/framework/src/sbt-plugin/src/main/resources/r.js,/home/shanai/play/play-2.1.3-dash/framework/src/sbt-plugin/target/scala-2.9.2/sbt-0.12/classes/r.js)[0m
+[0m[[0mdebug[0m] [0m	(/home/shanai/play/play-2.1.3-dash/framework/src/sbt-plugin/src/main/resources/less-1.3.1.js,/home/shanai/play/play-2.1.3-dash/framework/src/sbt-plugin/target/scala-2.9.2/sbt-0.12/classes/less-1.3.1.js)[0m
+[0m[[0mdebug[0m] [0m	(/home/shanai/play/play-2.1.3-dash/framework/src/sbt-plugin/src/main/resources/coffee-script.js,/home/shanai/play/play-2.1.3-dash/framework/src/sbt-plugin/target/scala-2.9.2/sbt-0.12/classes/coffee-script.js)[0m

@@ -1,0 +1,23 @@
+[0m[[0minfo[0m] [0mPackaging /home/shanai/play/play-2.1.3-dash/framework/src/play-java-jpa/target/scala-2.10/play-java-jpa_2.10-2.1.3.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	play/db/jpa[0m
+[0m[[0mdebug[0m] [0m	  /home/shanai/play/play-2.1.3-dash/framework/src/play-java-jpa/target/scala-2.10/classes/play/db/jpa[0m
+[0m[[0mdebug[0m] [0m	play/db/jpa/JPAPlugin.class[0m
+[0m[[0mdebug[0m] [0m	  /home/shanai/play/play-2.1.3-dash/framework/src/play-java-jpa/target/scala-2.10/classes/play/db/jpa/JPAPlugin.class[0m
+[0m[[0mdebug[0m] [0m	play/db/jpa/JPA$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/shanai/play/play-2.1.3-dash/framework/src/play-java-jpa/target/scala-2.10/classes/play/db/jpa/JPA$1.class[0m
+[0m[[0mdebug[0m] [0m	play/db/jpa/TransactionalAction.class[0m
+[0m[[0mdebug[0m] [0m	  /home/shanai/play/play-2.1.3-dash/framework/src/play-java-jpa/target/scala-2.10/classes/play/db/jpa/TransactionalAction.class[0m
+[0m[[0mdebug[0m] [0m	play.plugins[0m
+[0m[[0mdebug[0m] [0m	  /home/shanai/play/play-2.1.3-dash/framework/src/play-java-jpa/target/scala-2.10/classes/play.plugins[0m
+[0m[[0mdebug[0m] [0m	play/db[0m
+[0m[[0mdebug[0m] [0m	  /home/shanai/play/play-2.1.3-dash/framework/src/play-java-jpa/target/scala-2.10/classes/play/db[0m
+[0m[[0mdebug[0m] [0m	play[0m
+[0m[[0mdebug[0m] [0m	  /home/shanai/play/play-2.1.3-dash/framework/src/play-java-jpa/target/scala-2.10/classes/play[0m
+[0m[[0mdebug[0m] [0m	play/db/jpa/JPA.class[0m
+[0m[[0mdebug[0m] [0m	  /home/shanai/play/play-2.1.3-dash/framework/src/play-java-jpa/target/scala-2.10/classes/play/db/jpa/JPA.class[0m
+[0m[[0mdebug[0m] [0m	play/db/jpa/Transactional.class[0m
+[0m[[0mdebug[0m] [0m	  /home/shanai/play/play-2.1.3-dash/framework/src/play-java-jpa/target/scala-2.10/classes/play/db/jpa/Transactional.class[0m
+[0m[[0mdebug[0m] [0m	play/db/jpa/TransactionalAction$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/shanai/play/play-2.1.3-dash/framework/src/play-java-jpa/target/scala-2.10/classes/play/db/jpa/TransactionalAction$1.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
