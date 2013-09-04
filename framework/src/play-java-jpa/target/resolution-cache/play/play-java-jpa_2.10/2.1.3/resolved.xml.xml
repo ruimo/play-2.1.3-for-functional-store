@@ -4,7 +4,7 @@
 		module="play-java-jpa_2.10"
 		revision="2.1.3"
 		status="integration"
-		publication="20130825191416"
+		publication="20130825205633"
 	>
 		<description>
 		Play-Java-JPA

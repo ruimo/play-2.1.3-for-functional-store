@@ -55,8 +55,8 @@ Seq[Any](format.raw/*13.113*/("""
 }
                 /*
                     -- GENERATED --
-                    DATE: Sun Aug 25 19:14:13 JST 2013
-                    SOURCE: /home/shanai/play/play-2.1.3-dash/framework/src/play/src/main/scala/views/helper/checkbox.scala.html
+                    DATE: Sun Aug 25 20:55:00 JST 2013
+                    SOURCE: /home/shanai/play/play-2.1.3-for-functional-store/framework/src/play/src/main/scala/views/helper/checkbox.scala.html
                     HASH: f5783a85b1f297d88a0618dd497bd8b3670bb232
                     MATRIX: 1027->283|1199->397|1216->405|1296->394|1326->453|1364->456|1394->477|1465->510|1534->543|1558->545|1603->554|1629->558|1675->568|1705->576|1744->579|1814->626|1853->628|1920->672|1969->685|1982->689|2022->707|2062->716
                     LINES: 35->13|37->15|37->15|38->13|40->15|42->17|42->17|42->17|43->18|43->18|43->18|43->18|43->18|43->18|43->18|43->18|43->18|43->18|44->19|44->19|44->19|45->20

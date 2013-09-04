@@ -1,9 +1,9 @@
-[0m[[0minfo[0m] [0m:: delivering :: play#play-integration-test_2.10;2.1.3 :: 2.1.3 :: release :: Sun Aug 25 19:14:14 JST 2013[0m
-[0m[[0mdebug[0m] [0m	options = status=release pubdate=Sun Aug 25 19:14:14 JST 2013 validate=true resolveDynamicRevisions=true merge=true resolveId=null pubBranch=null[0m
+[0m[[0minfo[0m] [0m:: delivering :: play#play-integration-test_2.10;2.1.3 :: 2.1.3 :: release :: Sun Aug 25 20:58:32 JST 2013[0m
+[0m[[0mdebug[0m] [0m	options = status=release pubdate=Sun Aug 25 20:58:32 JST 2013 validate=true resolveDynamicRevisions=true merge=true resolveId=null pubBranch=null[0m
+[0m[[0mdebug[0m] [0msetting 'ivy.default.settings.dir' to 'jar:file:/home/shanai/play/play-2.1.3-for-functional-store/framework/sbt/boot/scala-2.9.2/org.scala-sbt/sbt/0.12.2/ivy-2.3.0-rc1.jar!/org/apache/ivy/core/settings'[0m
+[0m[[0mdebug[0m] [0msetting 'ivy.basedir' to '/home/shanai/play/play-2.1.3-for-functional-store/framework/.'[0m
+[0m[[0mdebug[0m] [0msetting 'ivy.default.conf.dir' to 'jar:file:/home/shanai/play/play-2.1.3-for-functional-store/framework/sbt/boot/scala-2.9.2/org.scala-sbt/sbt/0.12.2/ivy-2.3.0-rc1.jar!/org/apache/ivy/core/settings'[0m
 [0m[[0mdebug[0m] [0mpost 1.3 ivy file: using exact as default matcher[0m
-[0m[[0mdebug[0m] [0msetting 'ivy.default.settings.dir' to 'jar:file:/home/shanai/play/play-2.1.3-dash/framework/sbt/boot/scala-2.9.2/org.scala-sbt/sbt/0.12.2/ivy-2.3.0-rc1.jar!/org/apache/ivy/core/settings'[0m
-[0m[[0mdebug[0m] [0msetting 'ivy.basedir' to '/home/shanai/play/play-2.1.3-dash/framework/.'[0m
-[0m[[0mdebug[0m] [0msetting 'ivy.default.conf.dir' to 'jar:file:/home/shanai/play/play-2.1.3-dash/framework/sbt/boot/scala-2.9.2/org.scala-sbt/sbt/0.12.2/ivy-2.3.0-rc1.jar!/org/apache/ivy/core/settings'[0m
 [0m[[0mdebug[0m] [0msetting 'sbt.ivy.home' to './../repository'[0m
 [0m[[0mdebug[0m] [0msetting 'java.runtime.name' to 'OpenJDK Runtime Environment'[0m
 [0m[[0mdebug[0m] [0msetting 'sun.boot.library.path' to '/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/amd64'[0m
@@ -11,14 +11,13 @@
 [0m[[0mdebug[0m] [0msetting 'java.vm.vendor' to 'Oracle Corporation'[0m
 [0m[[0mdebug[0m] [0msetting 'java.vendor.url' to 'http://java.oracle.com/'[0m
 [0m[[0mdebug[0m] [0msetting 'path.separator' to ':'[0m
-[0m[[0minfo[0m] [0m	delivering ivy file to /home/shanai/play/play-2.1.3-dash/framework/src/play-integration-test/target/scala-2.10/ivy-2.1.3.xml[0m
 [0m[[0mdebug[0m] [0msetting 'java.vm.name' to 'OpenJDK 64-Bit Server VM'[0m
 [0m[[0mdebug[0m] [0msetting 'file.encoding.pkg' to 'sun.io'[0m
 [0m[[0mdebug[0m] [0msetting 'user.country' to 'JP'[0m
 [0m[[0mdebug[0m] [0msetting 'sun.java.launcher' to 'SUN_STANDARD'[0m
 [0m[[0mdebug[0m] [0msetting 'sun.os.patch.level' to 'unknown'[0m
 [0m[[0mdebug[0m] [0msetting 'java.vm.specification.name' to 'Java Virtual Machine Specification'[0m
-[0m[[0mdebug[0m] [0msetting 'user.dir' to '/home/shanai/play/play-2.1.3-dash/framework'[0m
+[0m[[0mdebug[0m] [0msetting 'user.dir' to '/home/shanai/play/play-2.1.3-for-functional-store/framework'[0m
 [0m[[0mdebug[0m] [0msetting 'java.runtime.version' to '1.7.0_25-b30'[0m
 [0m[[0mdebug[0m] [0msetting 'sbt.boot.properties' to './sbt/sbt.boot.properties'[0m
 [0m[[0mdebug[0m] [0msetting 'java.awt.graphicsenv' to 'sun.awt.X11GraphicsEnvironment'[0m
@@ -61,11 +60,12 @@
 [0m[[0mdebug[0m] [0msetting 'sun.io.unicode.encoding' to 'UnicodeLittle'[0m
 [0m[[0mdebug[0m] [0msetting 'sun.cpu.endian' to 'little'[0m
 [0m[[0mdebug[0m] [0msetting 'sun.cpu.isalist' to ''[0m
-[0m[[0mdebug[0m] [0msetting 'ivy.basedir' to '/home/shanai/play/play-2.1.3-dash/framework/src/play-java-jdbc'[0m
-[0m[[0mdebug[0m] [0msetting 'basedir' to '/home/shanai/play/play-2.1.3-dash/framework/src/play-java-jdbc'[0m
+[0m[[0mdebug[0m] [0msetting 'ivy.basedir' to '/home/shanai/play/play-2.1.3-for-functional-store/framework/src/play-java-jdbc'[0m
+[0m[[0mdebug[0m] [0msetting 'basedir' to '/home/shanai/play/play-2.1.3-for-functional-store/framework/src/play-java-jdbc'[0m
 [0m[[0mdebug[0m] [0msetting 'ivy.checksums' to 'sha1,md5'[0m
-[0m[[0mdebug[0m] [0msetting 'ivy.default.ivy.user.dir' to '/home/shanai/play/play-2.1.3-dash/repository'[0m
-[0m[[0mdebug[0m] [0msetting 'ivy.home' to '/home/shanai/play/play-2.1.3-dash/repository'[0m
-[0m[[0mdebug[0m] [0msetting 'ivy.cache.dir' to '/home/shanai/play/play-2.1.3-dash/repository/cache'[0m
-[0m[[0mdebug[0m] [0mno default cache defined: set to /home/shanai/play/play-2.1.3-dash/repository/cache[0m
-[0m[[0mdebug[0m] [0m	deliver done (33ms)[0m
+[0m[[0mdebug[0m] [0msetting 'ivy.default.ivy.user.dir' to '/home/shanai/play/play-2.1.3-for-functional-store/repository'[0m
+[0m[[0mdebug[0m] [0msetting 'ivy.home' to '/home/shanai/play/play-2.1.3-for-functional-store/repository'[0m
+[0m[[0mdebug[0m] [0msetting 'ivy.cache.dir' to '/home/shanai/play/play-2.1.3-for-functional-store/repository/cache'[0m
+[0m[[0mdebug[0m] [0mno default cache defined: set to /home/shanai/play/play-2.1.3-for-functional-store/repository/cache[0m
+[0m[[0minfo[0m] [0m	delivering ivy file to /home/shanai/play/play-2.1.3-for-functional-store/framework/src/play-integration-test/target/scala-2.10/ivy-2.1.3.xml[0m
+[0m[[0mdebug[0m] [0m	deliver done (13ms)[0m

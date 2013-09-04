@@ -1,4 +1,5 @@
-[0m[[0minfo[0m] [0mUpdating {file:/home/shanai/play/play-2.1.3-dash/framework/}Templates-Compiler...[0m
+[0m[[0minfo[0m] [0mUpdating {file:/home/shanai/play/play-2.1.3-for-functional-store/framework/}Templates-Compiler...[0m
+[0m[[0mdebug[0m] [0mpost 1.3 ivy file: using exact as default matcher[0m
 [0m[[0mdebug[0m] [0m:: resolving dependencies :: play#templates-compiler_2.9.2;2.1.3[0m
 [0m[[0mdebug[0m] [0m	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom][0m
 [0m[[0mdebug[0m] [0m	validate = true[0m
@@ -12,18 +13,54 @@
 [0m[[0minfo[0m] [0mResolving com.github.scala-incubator.io#scala-io-file_2.9.2;0.4.1 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: com.github.scala-incubator.io#scala-io-file_2.9.2;0.4.1 {compile=[default(compile)]}[0m
 [0m[[0mdebug[0m] [0msbt-chain: no namespace defined: using system[0m
-[0m[[0mdebug[0m] [0mNo entry is found in the ModuleDescriptorCache : /home/shanai/play/play-2.1.3-dash/repository/cache/com.github.scala-incubator.io/scala-io-file_2.9.2/ivy-0.4.1.xml[0m
-[0m[[0mdebug[0m] [0mpost 1.3 ivy file: using exact as default matcher[0m
-[0m[[0mdebug[0m] [0m	found ivy file in cache for com.github.scala-incubator.io#scala-io-file_2.9.2;0.4.1 (resolved by local): /home/shanai/play/play-2.1.3-dash/repository/cache/com.github.scala-incubator.io/scala-io-file_2.9.2/ivy-0.4.1.xml[0m
-[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: com.github.scala-incubator.io#scala-io-file_2.9.2;0.4.1[0m
+[0m[[0mdebug[0m] [0m	no ivy file in cache for com.github.scala-incubator.io#scala-io-file_2.9.2;0.4.1: tried /home/shanai/play/play-2.1.3-for-functional-store/repository/cache/com.github.scala-incubator.io/scala-io-file_2.9.2/ivy-0.4.1.xml[0m
 [0m[[0mdebug[0m] [0msbt-chain: no latest strategy defined: using default[0m
 [0m[[0mdebug[0m] [0mlocal: no namespace defined: using system[0m
-[0m[[0mdebug[0m] [0mEntry is found in the ModuleDescriptorCache : /home/shanai/play/play-2.1.3-dash/repository/cache/com.github.scala-incubator.io/scala-io-file_2.9.2/ivy-0.4.1.xml[0m
-[0m[[0mdebug[0m] [0m	found ivy file in cache for com.github.scala-incubator.io#scala-io-file_2.9.2;0.4.1 (resolved by local): /home/shanai/play/play-2.1.3-dash/repository/cache/com.github.scala-incubator.io/scala-io-file_2.9.2/ivy-0.4.1.xml[0m
-[0m[[0mdebug[0m] [0m	local: revision in cache: com.github.scala-incubator.io#scala-io-file_2.9.2;0.4.1[0m
-[0m[[0mdebug[0m] [0m	checking com.github.scala-incubator.io#scala-io-file_2.9.2;0.4.1 from local against [none][0m
-[0m[[0mdebug[0m] [0m	module revision kept as first found: com.github.scala-incubator.io#scala-io-file_2.9.2;0.4.1 from local[0m
-[0m[[0mdebug[0m] [0m	found com.github.scala-incubator.io#scala-io-file_2.9.2;0.4.1 in local[0m
+[0m[[0mdebug[0m] [0m	no ivy file in cache for com.github.scala-incubator.io#scala-io-file_2.9.2;0.4.1: tried /home/shanai/play/play-2.1.3-for-functional-store/repository/cache/com.github.scala-incubator.io/scala-io-file_2.9.2/ivy-0.4.1.xml[0m
+[0m[[0mdebug[0m] [0m	 trying /home/shanai/play/play-2.1.3-for-functional-store/repository/local/com.github.scala-incubator.io/scala-io-file_2.9.2/0.4.1/ivys/ivy.xml[0m
+[0m[[0mdebug[0m] [0m		tried /home/shanai/play/play-2.1.3-for-functional-store/repository/local/com.github.scala-incubator.io/scala-io-file_2.9.2/0.4.1/ivys/ivy.xml[0m
+[0m[[0mdebug[0m] [0m	local: resource not reachable for com.github.scala-incubator.io#scala-io-file_2.9.2;0.4.1: res=/home/shanai/play/play-2.1.3-for-functional-store/repository/local/com.github.scala-incubator.io/scala-io-file_2.9.2/0.4.1/ivys/ivy.xml[0m
+[0m[[0mdebug[0m] [0m	local: no ivy file found for com.github.scala-incubator.io#scala-io-file_2.9.2;0.4.1[0m
+[0m[[0mdebug[0m] [0mTypesafe Repository: no namespace defined: using system[0m
+[0m[[0mdebug[0m] [0m	no ivy file in cache for com.github.scala-incubator.io#scala-io-file_2.9.2;0.4.1: tried /home/shanai/play/play-2.1.3-for-functional-store/repository/cache/com.github.scala-incubator.io/scala-io-file_2.9.2/ivy-0.4.1.xml[0m
+[0m[[0mdebug[0m] [0m	 trying http://repo.typesafe.com/typesafe/releases/com/github/scala-incubator/io/scala-io-file_2.9.2/0.4.1/scala-io-file_2.9.2-0.4.1.pom[0m
+[0m[[0mdebug[0m] [0m		tried http://repo.typesafe.com/typesafe/releases/com/github/scala-incubator/io/scala-io-file_2.9.2/0.4.1/scala-io-file_2.9.2-0.4.1.pom[0m
+[0m[[0mdebug[0m] [0mHTTP response status: 404 url=http://repo.typesafe.com/typesafe/releases/com/github/scala-incubator/io/scala-io-file_2.9.2/0.4.1/scala-io-file_2.9.2-0.4.1.pom[0m
+[0m[[0mdebug[0m] [0mCLIENT ERROR: Not Found url=http://repo.typesafe.com/typesafe/releases/com/github/scala-incubator/io/scala-io-file_2.9.2/0.4.1/scala-io-file_2.9.2-0.4.1.pom[0m
+[0m[[0mdebug[0m] [0m	Typesafe Repository: resource not reachable for com/github/scala-incubator/io#scala-io-file_2.9.2;0.4.1: res=http://repo.typesafe.com/typesafe/releases/com/github/scala-incubator/io/scala-io-file_2.9.2/0.4.1/scala-io-file_2.9.2-0.4.1.pom[0m
+[0m[[0mdebug[0m] [0m	Typesafe Repository: no ivy file found for com.github.scala-incubator.io#scala-io-file_2.9.2;0.4.1[0m
+[0m[[0mdebug[0m] [0mpublic: no namespace defined: using system[0m
+[0m[[0mdebug[0m] [0m	no ivy file in cache for com.github.scala-incubator.io#scala-io-file_2.9.2;0.4.1: tried /home/shanai/play/play-2.1.3-for-functional-store/repository/cache/com.github.scala-incubator.io/scala-io-file_2.9.2/ivy-0.4.1.xml[0m
+[0m[[0mdebug[0m] [0m	 trying http://repo1.maven.org/maven2/com/github/scala-incubator/io/scala-io-file_2.9.2/0.4.1/scala-io-file_2.9.2-0.4.1.pom[0m
+[0m[[0mdebug[0m] [0m		tried http://repo1.maven.org/maven2/com/github/scala-incubator/io/scala-io-file_2.9.2/0.4.1/scala-io-file_2.9.2-0.4.1.pom[0m
+[0m[[0mdebug[0m] [0m	public: found md file for com.github.scala-incubator.io#scala-io-file_2.9.2;0.4.1[0m
+[0m[[0mdebug[0m] [0m		=> http://repo1.maven.org/maven2/com/github/scala-incubator/io/scala-io-file_2.9.2/0.4.1/scala-io-file_2.9.2-0.4.1.pom (0.4.1)[0m
+[0m[[0mdebug[0m] [0m	parser = sbt.CustomPomParser@6785fe9f[0m
+[0m[[0mdebug[0m] [0m	no ivy file in cache for com.github.scala-incubator.io#scala-io-file_2.9.2;0.4.1: tried /home/shanai/play/play-2.1.3-for-functional-store/repository/cache/com.github.scala-incubator.io/scala-io-file_2.9.2/ivy-0.4.1.xml[0m
+[0m[[0mdebug[0m] [0mdownloading http://repo1.maven.org/maven2/com/github/scala-incubator/io/scala-io-file_2.9.2/0.4.1/scala-io-file_2.9.2-0.4.1.pom ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading http://repo1.maven.org/maven2/com/github/scala-incubator/io/scala-io-file_2.9.2/0.4.1/scala-io-file_2.9.2-0.4.1.pom[0m
+[0m[[0mdebug[0m] [0m		to /home/shanai/play/play-2.1.3-for-functional-store/repository/cache/com.github.scala-incubator.io/scala-io-file_2.9.2/ivy-0.4.1.xml.original.part[0m
+[0m[[0mdebug[0m] [0msha1 file found for http://repo1.maven.org/maven2/com/github/scala-incubator/io/scala-io-file_2.9.2/0.4.1/scala-io-file_2.9.2-0.4.1.pom: checking...[0m
+[0m[[0mdebug[0m] [0m	public: downloading http://repo1.maven.org/maven2/com/github/scala-incubator/io/scala-io-file_2.9.2/0.4.1/scala-io-file_2.9.2-0.4.1.pom.sha1[0m
+[0m[[0mdebug[0m] [0m		to /tmp/ivytmp402045346830602652sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for http://repo1.maven.org/maven2/com/github/scala-incubator/io/scala-io-file_2.9.2/0.4.1/scala-io-file_2.9.2-0.4.1.pom[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.github.scala-incubator.io#scala-io-file_2.9.2;0.4.1!scala-io-file_2.9.2.pom(pom.original) (488ms)[0m
+[0m[[0mdebug[0m] [0m	 trying /home/shanai/play/play-2.1.3-for-functional-store/repository/local/com.github.scala-incubator.io/scala-io-file_2.9.2/0.4.1/jars/scala-io-file_2.9.2.jar[0m
+[0m[[0mdebug[0m] [0m		tried /home/shanai/play/play-2.1.3-for-functional-store/repository/local/com.github.scala-incubator.io/scala-io-file_2.9.2/0.4.1/jars/scala-io-file_2.9.2.jar[0m
+[0m[[0mdebug[0m] [0m	local: resource not reachable for com.github.scala-incubator.io#scala-io-file_2.9.2;0.4.1: res=/home/shanai/play/play-2.1.3-for-functional-store/repository/local/com.github.scala-incubator.io/scala-io-file_2.9.2/0.4.1/jars/scala-io-file_2.9.2.jar[0m
+[0m[[0mdebug[0m] [0m	 trying http://repo.typesafe.com/typesafe/releases/com/github/scala-incubator/io/scala-io-file_2.9.2/0.4.1/scala-io-file_2.9.2-0.4.1.jar[0m
+[0m[[0mdebug[0m] [0m		tried http://repo.typesafe.com/typesafe/releases/com/github/scala-incubator/io/scala-io-file_2.9.2/0.4.1/scala-io-file_2.9.2-0.4.1.jar[0m
+[0m[[0mdebug[0m] [0mHTTP response status: 404 url=http://repo.typesafe.com/typesafe/releases/com/github/scala-incubator/io/scala-io-file_2.9.2/0.4.1/scala-io-file_2.9.2-0.4.1.jar[0m
+[0m[[0mdebug[0m] [0mCLIENT ERROR: Not Found url=http://repo.typesafe.com/typesafe/releases/com/github/scala-incubator/io/scala-io-file_2.9.2/0.4.1/scala-io-file_2.9.2-0.4.1.jar[0m
+[0m[[0mdebug[0m] [0m	Typesafe Repository: resource not reachable for com/github/scala-incubator/io#scala-io-file_2.9.2;0.4.1: res=http://repo.typesafe.com/typesafe/releases/com/github/scala-incubator/io/scala-io-file_2.9.2/0.4.1/scala-io-file_2.9.2-0.4.1.jar[0m
+[0m[[0mdebug[0m] [0m	 trying http://repo1.maven.org/maven2/com/github/scala-incubator/io/scala-io-file_2.9.2/0.4.1/scala-io-file_2.9.2-0.4.1.jar[0m
+[0m[[0mdebug[0m] [0m		tried http://repo1.maven.org/maven2/com/github/scala-incubator/io/scala-io-file_2.9.2/0.4.1/scala-io-file_2.9.2-0.4.1.jar[0m
+[0m[[0mdebug[0m] [0mno source artifact found for com.github.scala-incubator.io#scala-io-file_2.9.2;0.4.1[0m
+[0m[[0mdebug[0m] [0mno javadoc artifact found for com.github.scala-incubator.io#scala-io-file_2.9.2;0.4.1[0m
+[0m[[0mdebug[0m] [0m	default-cache: parsed downloaded md file for com.github.scala-incubator.io#scala-io-file_2.9.2;0.4.1; parsed=com.github.scala-incubator.io#scala-io-file_2.9.2;0.4.1[0m
+[0m[[0mdebug[0m] [0m	checking com.github.scala-incubator.io#scala-io-file_2.9.2;0.4.1 from public against [none][0m
+[0m[[0mdebug[0m] [0m	module revision kept as first found: com.github.scala-incubator.io#scala-io-file_2.9.2;0.4.1 from public[0m
+[0m[[0mdebug[0m] [0m	found com.github.scala-incubator.io#scala-io-file_2.9.2;0.4.1 in public[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies play#templates-compiler_2.9.2;2.1.3->com.github.scala-incubator.io#scala-io-file_2.9.2;0.4.1 [compile->runtime][0m
 [0m[[0mdebug[0m] [0mloadData of com.github.scala-incubator.io#scala-io-file_2.9.2;0.4.1 of rootConf=compile[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies play#templates-compiler_2.9.2;2.1.3->com.github.scala-incubator.io#scala-io-file_2.9.2;0.4.1 [compile->compile][0m
@@ -33,16 +70,50 @@
 [0m[[0mdebug[0m] [0m	using sbt-chain to resolve com.github.scala-incubator.io#scala-io-core_2.9.2;0.4.1[0m
 [0m[[0minfo[0m] [0mResolving com.github.scala-incubator.io#scala-io-core_2.9.2;0.4.1 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: com.github.scala-incubator.io#scala-io-core_2.9.2;0.4.1 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
-[0m[[0mdebug[0m] [0mNo entry is found in the ModuleDescriptorCache : /home/shanai/play/play-2.1.3-dash/repository/cache/com.github.scala-incubator.io/scala-io-core_2.9.2/ivy-0.4.1.xml[0m
-[0m[[0mdebug[0m] [0mpost 1.3 ivy file: using exact as default matcher[0m
-[0m[[0mdebug[0m] [0m	found ivy file in cache for com.github.scala-incubator.io#scala-io-core_2.9.2;0.4.1 (resolved by local): /home/shanai/play/play-2.1.3-dash/repository/cache/com.github.scala-incubator.io/scala-io-core_2.9.2/ivy-0.4.1.xml[0m
-[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: com.github.scala-incubator.io#scala-io-core_2.9.2;0.4.1[0m
-[0m[[0mdebug[0m] [0mEntry is found in the ModuleDescriptorCache : /home/shanai/play/play-2.1.3-dash/repository/cache/com.github.scala-incubator.io/scala-io-core_2.9.2/ivy-0.4.1.xml[0m
-[0m[[0mdebug[0m] [0m	found ivy file in cache for com.github.scala-incubator.io#scala-io-core_2.9.2;0.4.1 (resolved by local): /home/shanai/play/play-2.1.3-dash/repository/cache/com.github.scala-incubator.io/scala-io-core_2.9.2/ivy-0.4.1.xml[0m
-[0m[[0mdebug[0m] [0m	local: revision in cache: com.github.scala-incubator.io#scala-io-core_2.9.2;0.4.1[0m
-[0m[[0mdebug[0m] [0m	checking com.github.scala-incubator.io#scala-io-core_2.9.2;0.4.1 from local against [none][0m
-[0m[[0mdebug[0m] [0m	module revision kept as first found: com.github.scala-incubator.io#scala-io-core_2.9.2;0.4.1 from local[0m
-[0m[[0mdebug[0m] [0m	found com.github.scala-incubator.io#scala-io-core_2.9.2;0.4.1 in local[0m
+[0m[[0mdebug[0m] [0m	no ivy file in cache for com.github.scala-incubator.io#scala-io-core_2.9.2;0.4.1: tried /home/shanai/play/play-2.1.3-for-functional-store/repository/cache/com.github.scala-incubator.io/scala-io-core_2.9.2/ivy-0.4.1.xml[0m
+[0m[[0mdebug[0m] [0m	no ivy file in cache for com.github.scala-incubator.io#scala-io-core_2.9.2;0.4.1: tried /home/shanai/play/play-2.1.3-for-functional-store/repository/cache/com.github.scala-incubator.io/scala-io-core_2.9.2/ivy-0.4.1.xml[0m
+[0m[[0mdebug[0m] [0m	 trying /home/shanai/play/play-2.1.3-for-functional-store/repository/local/com.github.scala-incubator.io/scala-io-core_2.9.2/0.4.1/ivys/ivy.xml[0m
+[0m[[0mdebug[0m] [0m		tried /home/shanai/play/play-2.1.3-for-functional-store/repository/local/com.github.scala-incubator.io/scala-io-core_2.9.2/0.4.1/ivys/ivy.xml[0m
+[0m[[0mdebug[0m] [0m	local: resource not reachable for com.github.scala-incubator.io#scala-io-core_2.9.2;0.4.1: res=/home/shanai/play/play-2.1.3-for-functional-store/repository/local/com.github.scala-incubator.io/scala-io-core_2.9.2/0.4.1/ivys/ivy.xml[0m
+[0m[[0mdebug[0m] [0m	local: no ivy file found for com.github.scala-incubator.io#scala-io-core_2.9.2;0.4.1[0m
+[0m[[0mdebug[0m] [0m	no ivy file in cache for com.github.scala-incubator.io#scala-io-core_2.9.2;0.4.1: tried /home/shanai/play/play-2.1.3-for-functional-store/repository/cache/com.github.scala-incubator.io/scala-io-core_2.9.2/ivy-0.4.1.xml[0m
+[0m[[0mdebug[0m] [0m	 trying http://repo.typesafe.com/typesafe/releases/com/github/scala-incubator/io/scala-io-core_2.9.2/0.4.1/scala-io-core_2.9.2-0.4.1.pom[0m
+[0m[[0mdebug[0m] [0m		tried http://repo.typesafe.com/typesafe/releases/com/github/scala-incubator/io/scala-io-core_2.9.2/0.4.1/scala-io-core_2.9.2-0.4.1.pom[0m
+[0m[[0mdebug[0m] [0mHTTP response status: 404 url=http://repo.typesafe.com/typesafe/releases/com/github/scala-incubator/io/scala-io-core_2.9.2/0.4.1/scala-io-core_2.9.2-0.4.1.pom[0m
+[0m[[0mdebug[0m] [0mCLIENT ERROR: Not Found url=http://repo.typesafe.com/typesafe/releases/com/github/scala-incubator/io/scala-io-core_2.9.2/0.4.1/scala-io-core_2.9.2-0.4.1.pom[0m
+[0m[[0mdebug[0m] [0m	Typesafe Repository: resource not reachable for com/github/scala-incubator/io#scala-io-core_2.9.2;0.4.1: res=http://repo.typesafe.com/typesafe/releases/com/github/scala-incubator/io/scala-io-core_2.9.2/0.4.1/scala-io-core_2.9.2-0.4.1.pom[0m
+[0m[[0mdebug[0m] [0m	Typesafe Repository: no ivy file found for com.github.scala-incubator.io#scala-io-core_2.9.2;0.4.1[0m
+[0m[[0mdebug[0m] [0m	no ivy file in cache for com.github.scala-incubator.io#scala-io-core_2.9.2;0.4.1: tried /home/shanai/play/play-2.1.3-for-functional-store/repository/cache/com.github.scala-incubator.io/scala-io-core_2.9.2/ivy-0.4.1.xml[0m
+[0m[[0mdebug[0m] [0m	 trying http://repo1.maven.org/maven2/com/github/scala-incubator/io/scala-io-core_2.9.2/0.4.1/scala-io-core_2.9.2-0.4.1.pom[0m
+[0m[[0mdebug[0m] [0m		tried http://repo1.maven.org/maven2/com/github/scala-incubator/io/scala-io-core_2.9.2/0.4.1/scala-io-core_2.9.2-0.4.1.pom[0m
+[0m[[0mdebug[0m] [0m	public: found md file for com.github.scala-incubator.io#scala-io-core_2.9.2;0.4.1[0m
+[0m[[0mdebug[0m] [0m		=> http://repo1.maven.org/maven2/com/github/scala-incubator/io/scala-io-core_2.9.2/0.4.1/scala-io-core_2.9.2-0.4.1.pom (0.4.1)[0m
+[0m[[0mdebug[0m] [0m	parser = sbt.CustomPomParser@6785fe9f[0m
+[0m[[0mdebug[0m] [0m	no ivy file in cache for com.github.scala-incubator.io#scala-io-core_2.9.2;0.4.1: tried /home/shanai/play/play-2.1.3-for-functional-store/repository/cache/com.github.scala-incubator.io/scala-io-core_2.9.2/ivy-0.4.1.xml[0m
+[0m[[0mdebug[0m] [0mdownloading http://repo1.maven.org/maven2/com/github/scala-incubator/io/scala-io-core_2.9.2/0.4.1/scala-io-core_2.9.2-0.4.1.pom ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading http://repo1.maven.org/maven2/com/github/scala-incubator/io/scala-io-core_2.9.2/0.4.1/scala-io-core_2.9.2-0.4.1.pom[0m
+[0m[[0mdebug[0m] [0m		to /home/shanai/play/play-2.1.3-for-functional-store/repository/cache/com.github.scala-incubator.io/scala-io-core_2.9.2/ivy-0.4.1.xml.original.part[0m
+[0m[[0mdebug[0m] [0msha1 file found for http://repo1.maven.org/maven2/com/github/scala-incubator/io/scala-io-core_2.9.2/0.4.1/scala-io-core_2.9.2-0.4.1.pom: checking...[0m
+[0m[[0mdebug[0m] [0m	public: downloading http://repo1.maven.org/maven2/com/github/scala-incubator/io/scala-io-core_2.9.2/0.4.1/scala-io-core_2.9.2-0.4.1.pom.sha1[0m
+[0m[[0mdebug[0m] [0m		to /tmp/ivytmp5408576267640843080sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for http://repo1.maven.org/maven2/com/github/scala-incubator/io/scala-io-core_2.9.2/0.4.1/scala-io-core_2.9.2-0.4.1.pom[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.github.scala-incubator.io#scala-io-core_2.9.2;0.4.1!scala-io-core_2.9.2.pom(pom.original) (489ms)[0m
+[0m[[0mdebug[0m] [0m	 trying /home/shanai/play/play-2.1.3-for-functional-store/repository/local/com.github.scala-incubator.io/scala-io-core_2.9.2/0.4.1/jars/scala-io-core_2.9.2.jar[0m
+[0m[[0mdebug[0m] [0m		tried /home/shanai/play/play-2.1.3-for-functional-store/repository/local/com.github.scala-incubator.io/scala-io-core_2.9.2/0.4.1/jars/scala-io-core_2.9.2.jar[0m
+[0m[[0mdebug[0m] [0m	local: resource not reachable for com.github.scala-incubator.io#scala-io-core_2.9.2;0.4.1: res=/home/shanai/play/play-2.1.3-for-functional-store/repository/local/com.github.scala-incubator.io/scala-io-core_2.9.2/0.4.1/jars/scala-io-core_2.9.2.jar[0m
+[0m[[0mdebug[0m] [0m	 trying http://repo.typesafe.com/typesafe/releases/com/github/scala-incubator/io/scala-io-core_2.9.2/0.4.1/scala-io-core_2.9.2-0.4.1.jar[0m
+[0m[[0mdebug[0m] [0m		tried http://repo.typesafe.com/typesafe/releases/com/github/scala-incubator/io/scala-io-core_2.9.2/0.4.1/scala-io-core_2.9.2-0.4.1.jar[0m
+[0m[[0mdebug[0m] [0mHTTP response status: 404 url=http://repo.typesafe.com/typesafe/releases/com/github/scala-incubator/io/scala-io-core_2.9.2/0.4.1/scala-io-core_2.9.2-0.4.1.jar[0m
+[0m[[0mdebug[0m] [0mCLIENT ERROR: Not Found url=http://repo.typesafe.com/typesafe/releases/com/github/scala-incubator/io/scala-io-core_2.9.2/0.4.1/scala-io-core_2.9.2-0.4.1.jar[0m
+[0m[[0mdebug[0m] [0m	Typesafe Repository: resource not reachable for com/github/scala-incubator/io#scala-io-core_2.9.2;0.4.1: res=http://repo.typesafe.com/typesafe/releases/com/github/scala-incubator/io/scala-io-core_2.9.2/0.4.1/scala-io-core_2.9.2-0.4.1.jar[0m
+[0m[[0mdebug[0m] [0m	 trying http://repo1.maven.org/maven2/com/github/scala-incubator/io/scala-io-core_2.9.2/0.4.1/scala-io-core_2.9.2-0.4.1.jar[0m
+[0m[[0mdebug[0m] [0m		tried http://repo1.maven.org/maven2/com/github/scala-incubator/io/scala-io-core_2.9.2/0.4.1/scala-io-core_2.9.2-0.4.1.jar[0m
+[0m[[0mdebug[0m] [0mno source artifact found for com.github.scala-incubator.io#scala-io-core_2.9.2;0.4.1[0m
+[0m[[0mdebug[0m] [0mno javadoc artifact found for com.github.scala-incubator.io#scala-io-core_2.9.2;0.4.1[0m
+[0m[[0mdebug[0m] [0m	default-cache: parsed downloaded md file for com.github.scala-incubator.io#scala-io-core_2.9.2;0.4.1; parsed=com.github.scala-incubator.io#scala-io-core_2.9.2;0.4.1[0m
+[0m[[0mdebug[0m] [0m	checking com.github.scala-incubator.io#scala-io-core_2.9.2;0.4.1 from public against [none][0m
+[0m[[0mdebug[0m] [0m	module revision kept as first found: com.github.scala-incubator.io#scala-io-core_2.9.2;0.4.1 from public[0m
+[0m[[0mdebug[0m] [0m	found com.github.scala-incubator.io#scala-io-core_2.9.2;0.4.1 in public[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.github.scala-incubator.io#scala-io-file_2.9.2;0.4.1->com.github.scala-incubator.io#scala-io-core_2.9.2;0.4.1 [compile->compile(*)][0m
 [0m[[0mdebug[0m] [0mloadData of com.github.scala-incubator.io#scala-io-core_2.9.2;0.4.1 of rootConf=compile[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.github.scala-incubator.io#scala-io-core_2.9.2;0.4.1->org.scala-lang#scala-library;2.9.2 [compile->master(*)][0m
@@ -50,16 +121,16 @@
 [0m[[0mdebug[0m] [0m	using sbt-chain to resolve org.scala-lang#scala-library;2.9.2[0m
 [0m[[0minfo[0m] [0mResolving org.scala-lang#scala-library;2.9.2 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.scala-lang#scala-library;2.9.2 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
-[0m[[0mdebug[0m] [0mNo entry is found in the ModuleDescriptorCache : /home/shanai/play/play-2.1.3-dash/repository/cache/org.scala-lang/scala-library/ivy-2.9.2.xml[0m
+[0m[[0mdebug[0m] [0mNo entry is found in the ModuleDescriptorCache : /home/shanai/play/play-2.1.3-for-functional-store/repository/cache/org.scala-lang/scala-library/ivy-2.9.2.xml[0m
 [0m[[0mdebug[0m] [0mpost 1.3 ivy file: using exact as default matcher[0m
-[0m[[0mdebug[0m] [0m	found ivy file in cache for org.scala-lang#scala-library;2.9.2 (resolved by local): /home/shanai/play/play-2.1.3-dash/repository/cache/org.scala-lang/scala-library/ivy-2.9.2.xml[0m
+[0m[[0mdebug[0m] [0m	found ivy file in cache for org.scala-lang#scala-library;2.9.2 (resolved by public): /home/shanai/play/play-2.1.3-for-functional-store/repository/cache/org.scala-lang/scala-library/ivy-2.9.2.xml[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#scala-library;2.9.2[0m
-[0m[[0mdebug[0m] [0mEntry is found in the ModuleDescriptorCache : /home/shanai/play/play-2.1.3-dash/repository/cache/org.scala-lang/scala-library/ivy-2.9.2.xml[0m
-[0m[[0mdebug[0m] [0m	found ivy file in cache for org.scala-lang#scala-library;2.9.2 (resolved by local): /home/shanai/play/play-2.1.3-dash/repository/cache/org.scala-lang/scala-library/ivy-2.9.2.xml[0m
+[0m[[0mdebug[0m] [0mEntry is found in the ModuleDescriptorCache : /home/shanai/play/play-2.1.3-for-functional-store/repository/cache/org.scala-lang/scala-library/ivy-2.9.2.xml[0m
+[0m[[0mdebug[0m] [0m	found ivy file in cache for org.scala-lang#scala-library;2.9.2 (resolved by public): /home/shanai/play/play-2.1.3-for-functional-store/repository/cache/org.scala-lang/scala-library/ivy-2.9.2.xml[0m
 [0m[[0mdebug[0m] [0m	local: revision in cache: org.scala-lang#scala-library;2.9.2[0m
-[0m[[0mdebug[0m] [0m	checking org.scala-lang#scala-library;2.9.2 from local against [none][0m
-[0m[[0mdebug[0m] [0m	module revision kept as first found: org.scala-lang#scala-library;2.9.2 from local[0m
-[0m[[0mdebug[0m] [0m	found org.scala-lang#scala-library;2.9.2 in local[0m
+[0m[[0mdebug[0m] [0m	checking org.scala-lang#scala-library;2.9.2 from public against [none][0m
+[0m[[0mdebug[0m] [0m	module revision kept as first found: org.scala-lang#scala-library;2.9.2 from public[0m
+[0m[[0mdebug[0m] [0m	found org.scala-lang#scala-library;2.9.2 in public[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.github.scala-incubator.io#scala-io-core_2.9.2;0.4.1->org.scala-lang#scala-library;2.9.2 [compile->compile(*)][0m
 [0m[[0mdebug[0m] [0mloadData of org.scala-lang#scala-library;2.9.2 of rootConf=compile[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.github.scala-incubator.io#scala-io-core_2.9.2;0.4.1->org.scala-lang#scala-library;2.9.2 [compile->runtime(*)][0m
@@ -71,16 +142,16 @@
 [0m[[0mdebug[0m] [0m	using sbt-chain to resolve com.github.jsuereth.scala-arm#scala-arm_2.9.1;1.1[0m
 [0m[[0minfo[0m] [0mResolving com.github.jsuereth.scala-arm#scala-arm_2.9.1;1.1 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: com.github.jsuereth.scala-arm#scala-arm_2.9.1;1.1 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
-[0m[[0mdebug[0m] [0mNo entry is found in the ModuleDescriptorCache : /home/shanai/play/play-2.1.3-dash/repository/cache/com.github.jsuereth.scala-arm/scala-arm_2.9.1/ivy-1.1.xml[0m
+[0m[[0mdebug[0m] [0mNo entry is found in the ModuleDescriptorCache : /home/shanai/play/play-2.1.3-for-functional-store/repository/cache/com.github.jsuereth.scala-arm/scala-arm_2.9.1/ivy-1.1.xml[0m
 [0m[[0mdebug[0m] [0mpost 1.3 ivy file: using exact as default matcher[0m
-[0m[[0mdebug[0m] [0m	found ivy file in cache for com.github.jsuereth.scala-arm#scala-arm_2.9.1;1.1 (resolved by local): /home/shanai/play/play-2.1.3-dash/repository/cache/com.github.jsuereth.scala-arm/scala-arm_2.9.1/ivy-1.1.xml[0m
+[0m[[0mdebug[0m] [0m	found ivy file in cache for com.github.jsuereth.scala-arm#scala-arm_2.9.1;1.1 (resolved by public): /home/shanai/play/play-2.1.3-for-functional-store/repository/cache/com.github.jsuereth.scala-arm/scala-arm_2.9.1/ivy-1.1.xml[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: com.github.jsuereth.scala-arm#scala-arm_2.9.1;1.1[0m
-[0m[[0mdebug[0m] [0mEntry is found in the ModuleDescriptorCache : /home/shanai/play/play-2.1.3-dash/repository/cache/com.github.jsuereth.scala-arm/scala-arm_2.9.1/ivy-1.1.xml[0m
-[0m[[0mdebug[0m] [0m	found ivy file in cache for com.github.jsuereth.scala-arm#scala-arm_2.9.1;1.1 (resolved by local): /home/shanai/play/play-2.1.3-dash/repository/cache/com.github.jsuereth.scala-arm/scala-arm_2.9.1/ivy-1.1.xml[0m
+[0m[[0mdebug[0m] [0mEntry is found in the ModuleDescriptorCache : /home/shanai/play/play-2.1.3-for-functional-store/repository/cache/com.github.jsuereth.scala-arm/scala-arm_2.9.1/ivy-1.1.xml[0m
+[0m[[0mdebug[0m] [0m	found ivy file in cache for com.github.jsuereth.scala-arm#scala-arm_2.9.1;1.1 (resolved by public): /home/shanai/play/play-2.1.3-for-functional-store/repository/cache/com.github.jsuereth.scala-arm/scala-arm_2.9.1/ivy-1.1.xml[0m
 [0m[[0mdebug[0m] [0m	local: revision in cache: com.github.jsuereth.scala-arm#scala-arm_2.9.1;1.1[0m
-[0m[[0mdebug[0m] [0m	checking com.github.jsuereth.scala-arm#scala-arm_2.9.1;1.1 from local against [none][0m
-[0m[[0mdebug[0m] [0m	module revision kept as first found: com.github.jsuereth.scala-arm#scala-arm_2.9.1;1.1 from local[0m
-[0m[[0mdebug[0m] [0m	found com.github.jsuereth.scala-arm#scala-arm_2.9.1;1.1 in local[0m
+[0m[[0mdebug[0m] [0m	checking com.github.jsuereth.scala-arm#scala-arm_2.9.1;1.1 from public against [none][0m
+[0m[[0mdebug[0m] [0m	module revision kept as first found: com.github.jsuereth.scala-arm#scala-arm_2.9.1;1.1 from public[0m
+[0m[[0mdebug[0m] [0m	found com.github.jsuereth.scala-arm#scala-arm_2.9.1;1.1 in public[0m
 [0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.9.1 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.9.2 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.github.scala-incubator.io#scala-io-core_2.9.2;0.4.1->com.github.jsuereth.scala-arm#scala-arm_2.9.1;1.1 [compile->compile(*)][0m
 [0m[[0mdebug[0m] [0mloadData of com.github.jsuereth.scala-arm#scala-arm_2.9.1;1.1 of rootConf=compile[0m
@@ -97,16 +168,38 @@
 [0m[[0mdebug[0m] [0m	using sbt-chain to resolve com.typesafe.akka#akka-actor;2.0.1[0m
 [0m[[0minfo[0m] [0mResolving com.typesafe.akka#akka-actor;2.0.1 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: com.typesafe.akka#akka-actor;2.0.1 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
-[0m[[0mdebug[0m] [0mNo entry is found in the ModuleDescriptorCache : /home/shanai/play/play-2.1.3-dash/repository/cache/com.typesafe.akka/akka-actor/ivy-2.0.1.xml[0m
-[0m[[0mdebug[0m] [0mpost 1.3 ivy file: using exact as default matcher[0m
-[0m[[0mdebug[0m] [0m	found ivy file in cache for com.typesafe.akka#akka-actor;2.0.1 (resolved by local): /home/shanai/play/play-2.1.3-dash/repository/cache/com.typesafe.akka/akka-actor/ivy-2.0.1.xml[0m
-[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: com.typesafe.akka#akka-actor;2.0.1[0m
-[0m[[0mdebug[0m] [0mEntry is found in the ModuleDescriptorCache : /home/shanai/play/play-2.1.3-dash/repository/cache/com.typesafe.akka/akka-actor/ivy-2.0.1.xml[0m
-[0m[[0mdebug[0m] [0m	found ivy file in cache for com.typesafe.akka#akka-actor;2.0.1 (resolved by local): /home/shanai/play/play-2.1.3-dash/repository/cache/com.typesafe.akka/akka-actor/ivy-2.0.1.xml[0m
-[0m[[0mdebug[0m] [0m	local: revision in cache: com.typesafe.akka#akka-actor;2.0.1[0m
-[0m[[0mdebug[0m] [0m	checking com.typesafe.akka#akka-actor;2.0.1 from local against [none][0m
-[0m[[0mdebug[0m] [0m	module revision kept as first found: com.typesafe.akka#akka-actor;2.0.1 from local[0m
-[0m[[0mdebug[0m] [0m	found com.typesafe.akka#akka-actor;2.0.1 in local[0m
+[0m[[0mdebug[0m] [0m	no ivy file in cache for com.typesafe.akka#akka-actor;2.0.1: tried /home/shanai/play/play-2.1.3-for-functional-store/repository/cache/com.typesafe.akka/akka-actor/ivy-2.0.1.xml[0m
+[0m[[0mdebug[0m] [0m	no ivy file in cache for com.typesafe.akka#akka-actor;2.0.1: tried /home/shanai/play/play-2.1.3-for-functional-store/repository/cache/com.typesafe.akka/akka-actor/ivy-2.0.1.xml[0m
+[0m[[0mdebug[0m] [0m	 trying /home/shanai/play/play-2.1.3-for-functional-store/repository/local/com.typesafe.akka/akka-actor/2.0.1/ivys/ivy.xml[0m
+[0m[[0mdebug[0m] [0m		tried /home/shanai/play/play-2.1.3-for-functional-store/repository/local/com.typesafe.akka/akka-actor/2.0.1/ivys/ivy.xml[0m
+[0m[[0mdebug[0m] [0m	local: resource not reachable for com.typesafe.akka#akka-actor;2.0.1: res=/home/shanai/play/play-2.1.3-for-functional-store/repository/local/com.typesafe.akka/akka-actor/2.0.1/ivys/ivy.xml[0m
+[0m[[0mdebug[0m] [0m	local: no ivy file found for com.typesafe.akka#akka-actor;2.0.1[0m
+[0m[[0mdebug[0m] [0m	no ivy file in cache for com.typesafe.akka#akka-actor;2.0.1: tried /home/shanai/play/play-2.1.3-for-functional-store/repository/cache/com.typesafe.akka/akka-actor/ivy-2.0.1.xml[0m
+[0m[[0mdebug[0m] [0m	 trying http://repo.typesafe.com/typesafe/releases/com/typesafe/akka/akka-actor/2.0.1/akka-actor-2.0.1.pom[0m
+[0m[[0mdebug[0m] [0m		tried http://repo.typesafe.com/typesafe/releases/com/typesafe/akka/akka-actor/2.0.1/akka-actor-2.0.1.pom[0m
+[0m[[0mdebug[0m] [0m	Typesafe Repository: found md file for com.typesafe.akka#akka-actor;2.0.1[0m
+[0m[[0mdebug[0m] [0m		=> http://repo.typesafe.com/typesafe/releases/com/typesafe/akka/akka-actor/2.0.1/akka-actor-2.0.1.pom (2.0.1)[0m
+[0m[[0mdebug[0m] [0m	parser = sbt.CustomPomParser@6785fe9f[0m
+[0m[[0mdebug[0m] [0m	no ivy file in cache for com.typesafe.akka#akka-actor;2.0.1: tried /home/shanai/play/play-2.1.3-for-functional-store/repository/cache/com.typesafe.akka/akka-actor/ivy-2.0.1.xml[0m
+[0m[[0mdebug[0m] [0mdownloading http://repo.typesafe.com/typesafe/releases/com/typesafe/akka/akka-actor/2.0.1/akka-actor-2.0.1.pom ...[0m
+[0m[[0mdebug[0m] [0m	Typesafe Repository: downloading http://repo.typesafe.com/typesafe/releases/com/typesafe/akka/akka-actor/2.0.1/akka-actor-2.0.1.pom[0m
+[0m[[0mdebug[0m] [0m		to /home/shanai/play/play-2.1.3-for-functional-store/repository/cache/com.typesafe.akka/akka-actor/ivy-2.0.1.xml.original.part[0m
+[0m[[0mdebug[0m] [0msha1 file found for http://repo.typesafe.com/typesafe/releases/com/typesafe/akka/akka-actor/2.0.1/akka-actor-2.0.1.pom: checking...[0m
+[0m[[0mdebug[0m] [0m	Typesafe Repository: downloading http://repo.typesafe.com/typesafe/releases/com/typesafe/akka/akka-actor/2.0.1/akka-actor-2.0.1.pom.sha1[0m
+[0m[[0mdebug[0m] [0m		to /tmp/ivytmp2254539995056952454sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for http://repo.typesafe.com/typesafe/releases/com/typesafe/akka/akka-actor/2.0.1/akka-actor-2.0.1.pom[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] com.typesafe.akka#akka-actor;2.0.1!akka-actor.pom(pom.original) (933ms)[0m
+[0m[[0mdebug[0m] [0m	 trying /home/shanai/play/play-2.1.3-for-functional-store/repository/local/com.typesafe.akka/akka-actor/2.0.1/jars/akka-actor.jar[0m
+[0m[[0mdebug[0m] [0m		tried /home/shanai/play/play-2.1.3-for-functional-store/repository/local/com.typesafe.akka/akka-actor/2.0.1/jars/akka-actor.jar[0m
+[0m[[0mdebug[0m] [0m	local: resource not reachable for com.typesafe.akka#akka-actor;2.0.1: res=/home/shanai/play/play-2.1.3-for-functional-store/repository/local/com.typesafe.akka/akka-actor/2.0.1/jars/akka-actor.jar[0m
+[0m[[0mdebug[0m] [0m	 trying http://repo.typesafe.com/typesafe/releases/com/typesafe/akka/akka-actor/2.0.1/akka-actor-2.0.1.jar[0m
+[0m[[0mdebug[0m] [0m		tried http://repo.typesafe.com/typesafe/releases/com/typesafe/akka/akka-actor/2.0.1/akka-actor-2.0.1.jar[0m
+[0m[[0mdebug[0m] [0mno source artifact found for com.typesafe.akka#akka-actor;2.0.1[0m
+[0m[[0mdebug[0m] [0mno javadoc artifact found for com.typesafe.akka#akka-actor;2.0.1[0m
+[0m[[0mdebug[0m] [0m	default-cache: parsed downloaded md file for com.typesafe.akka#akka-actor;2.0.1; parsed=com.typesafe.akka#akka-actor;2.0.1[0m
+[0m[[0mdebug[0m] [0m	checking com.typesafe.akka#akka-actor;2.0.1 from Typesafe Repository against [none][0m
+[0m[[0mdebug[0m] [0m	module revision kept as first found: com.typesafe.akka#akka-actor;2.0.1 from Typesafe Repository[0m
+[0m[[0mdebug[0m] [0m	found com.typesafe.akka#akka-actor;2.0.1 in Typesafe Repository[0m
 [0m[[0mdebug[0m] [0mdependency descriptor has been mediated: dependency: org.scala-lang#scala-library;2.9.1-1 {compile=[compile(*), master(*)], runtime=[runtime(*)]} => dependency: org.scala-lang#scala-library;2.9.2 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies com.github.scala-incubator.io#scala-io-core_2.9.2;0.4.1->com.typesafe.akka#akka-actor;2.0.1 [compile->compile(*)][0m
 [0m[[0mdebug[0m] [0mloadData of com.typesafe.akka#akka-actor;2.0.1 of rootConf=compile[0m
@@ -388,16 +481,50 @@
 [0m[[0mdebug[0m] [0m	using sbt-chain to resolve org.specs2#specs2_2.9.2;1.12.3[0m
 [0m[[0minfo[0m] [0mResolving org.specs2#specs2_2.9.2;1.12.3 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.specs2#specs2_2.9.2;1.12.3 {test=[default(compile)]}[0m
-[0m[[0mdebug[0m] [0mNo entry is found in the ModuleDescriptorCache : /home/shanai/play/play-2.1.3-dash/repository/cache/org.specs2/specs2_2.9.2/ivy-1.12.3.xml[0m
-[0m[[0mdebug[0m] [0mpost 1.3 ivy file: using exact as default matcher[0m
-[0m[[0mdebug[0m] [0m	found ivy file in cache for org.specs2#specs2_2.9.2;1.12.3 (resolved by local): /home/shanai/play/play-2.1.3-dash/repository/cache/org.specs2/specs2_2.9.2/ivy-1.12.3.xml[0m
-[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.specs2#specs2_2.9.2;1.12.3[0m
-[0m[[0mdebug[0m] [0mEntry is found in the ModuleDescriptorCache : /home/shanai/play/play-2.1.3-dash/repository/cache/org.specs2/specs2_2.9.2/ivy-1.12.3.xml[0m
-[0m[[0mdebug[0m] [0m	found ivy file in cache for org.specs2#specs2_2.9.2;1.12.3 (resolved by local): /home/shanai/play/play-2.1.3-dash/repository/cache/org.specs2/specs2_2.9.2/ivy-1.12.3.xml[0m
-[0m[[0mdebug[0m] [0m	local: revision in cache: org.specs2#specs2_2.9.2;1.12.3[0m
-[0m[[0mdebug[0m] [0m	checking org.specs2#specs2_2.9.2;1.12.3 from local against [none][0m
-[0m[[0mdebug[0m] [0m	module revision kept as first found: org.specs2#specs2_2.9.2;1.12.3 from local[0m
-[0m[[0mdebug[0m] [0m	found org.specs2#specs2_2.9.2;1.12.3 in local[0m
+[0m[[0mdebug[0m] [0m	no ivy file in cache for org.specs2#specs2_2.9.2;1.12.3: tried /home/shanai/play/play-2.1.3-for-functional-store/repository/cache/org.specs2/specs2_2.9.2/ivy-1.12.3.xml[0m
+[0m[[0mdebug[0m] [0m	no ivy file in cache for org.specs2#specs2_2.9.2;1.12.3: tried /home/shanai/play/play-2.1.3-for-functional-store/repository/cache/org.specs2/specs2_2.9.2/ivy-1.12.3.xml[0m
+[0m[[0mdebug[0m] [0m	 trying /home/shanai/play/play-2.1.3-for-functional-store/repository/local/org.specs2/specs2_2.9.2/1.12.3/ivys/ivy.xml[0m
+[0m[[0mdebug[0m] [0m		tried /home/shanai/play/play-2.1.3-for-functional-store/repository/local/org.specs2/specs2_2.9.2/1.12.3/ivys/ivy.xml[0m
+[0m[[0mdebug[0m] [0m	local: resource not reachable for org.specs2#specs2_2.9.2;1.12.3: res=/home/shanai/play/play-2.1.3-for-functional-store/repository/local/org.specs2/specs2_2.9.2/1.12.3/ivys/ivy.xml[0m
+[0m[[0mdebug[0m] [0m	local: no ivy file found for org.specs2#specs2_2.9.2;1.12.3[0m
+[0m[[0mdebug[0m] [0m	no ivy file in cache for org.specs2#specs2_2.9.2;1.12.3: tried /home/shanai/play/play-2.1.3-for-functional-store/repository/cache/org.specs2/specs2_2.9.2/ivy-1.12.3.xml[0m
+[0m[[0mdebug[0m] [0m	 trying http://repo.typesafe.com/typesafe/releases/org/specs2/specs2_2.9.2/1.12.3/specs2_2.9.2-1.12.3.pom[0m
+[0m[[0mdebug[0m] [0m		tried http://repo.typesafe.com/typesafe/releases/org/specs2/specs2_2.9.2/1.12.3/specs2_2.9.2-1.12.3.pom[0m
+[0m[[0mdebug[0m] [0mHTTP response status: 404 url=http://repo.typesafe.com/typesafe/releases/org/specs2/specs2_2.9.2/1.12.3/specs2_2.9.2-1.12.3.pom[0m
+[0m[[0mdebug[0m] [0mCLIENT ERROR: Not Found url=http://repo.typesafe.com/typesafe/releases/org/specs2/specs2_2.9.2/1.12.3/specs2_2.9.2-1.12.3.pom[0m
+[0m[[0mdebug[0m] [0m	Typesafe Repository: resource not reachable for org/specs2#specs2_2.9.2;1.12.3: res=http://repo.typesafe.com/typesafe/releases/org/specs2/specs2_2.9.2/1.12.3/specs2_2.9.2-1.12.3.pom[0m
+[0m[[0mdebug[0m] [0m	Typesafe Repository: no ivy file found for org.specs2#specs2_2.9.2;1.12.3[0m
+[0m[[0mdebug[0m] [0m	no ivy file in cache for org.specs2#specs2_2.9.2;1.12.3: tried /home/shanai/play/play-2.1.3-for-functional-store/repository/cache/org.specs2/specs2_2.9.2/ivy-1.12.3.xml[0m
+[0m[[0mdebug[0m] [0m	 trying http://repo1.maven.org/maven2/org/specs2/specs2_2.9.2/1.12.3/specs2_2.9.2-1.12.3.pom[0m
+[0m[[0mdebug[0m] [0m		tried http://repo1.maven.org/maven2/org/specs2/specs2_2.9.2/1.12.3/specs2_2.9.2-1.12.3.pom[0m
+[0m[[0mdebug[0m] [0m	public: found md file for org.specs2#specs2_2.9.2;1.12.3[0m
+[0m[[0mdebug[0m] [0m		=> http://repo1.maven.org/maven2/org/specs2/specs2_2.9.2/1.12.3/specs2_2.9.2-1.12.3.pom (1.12.3)[0m
+[0m[[0mdebug[0m] [0m	parser = sbt.CustomPomParser@6785fe9f[0m
+[0m[[0mdebug[0m] [0m	no ivy file in cache for org.specs2#specs2_2.9.2;1.12.3: tried /home/shanai/play/play-2.1.3-for-functional-store/repository/cache/org.specs2/specs2_2.9.2/ivy-1.12.3.xml[0m
+[0m[[0mdebug[0m] [0mdownloading http://repo1.maven.org/maven2/org/specs2/specs2_2.9.2/1.12.3/specs2_2.9.2-1.12.3.pom ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading http://repo1.maven.org/maven2/org/specs2/specs2_2.9.2/1.12.3/specs2_2.9.2-1.12.3.pom[0m
+[0m[[0mdebug[0m] [0m		to /home/shanai/play/play-2.1.3-for-functional-store/repository/cache/org.specs2/specs2_2.9.2/ivy-1.12.3.xml.original.part[0m
+[0m[[0mdebug[0m] [0msha1 file found for http://repo1.maven.org/maven2/org/specs2/specs2_2.9.2/1.12.3/specs2_2.9.2-1.12.3.pom: checking...[0m
+[0m[[0mdebug[0m] [0m	public: downloading http://repo1.maven.org/maven2/org/specs2/specs2_2.9.2/1.12.3/specs2_2.9.2-1.12.3.pom.sha1[0m
+[0m[[0mdebug[0m] [0m		to /tmp/ivytmp2615287350424733239sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for http://repo1.maven.org/maven2/org/specs2/specs2_2.9.2/1.12.3/specs2_2.9.2-1.12.3.pom[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.specs2#specs2_2.9.2;1.12.3!specs2_2.9.2.pom(pom.original) (541ms)[0m
+[0m[[0mdebug[0m] [0m	 trying /home/shanai/play/play-2.1.3-for-functional-store/repository/local/org.specs2/specs2_2.9.2/1.12.3/jars/specs2_2.9.2.jar[0m
+[0m[[0mdebug[0m] [0m		tried /home/shanai/play/play-2.1.3-for-functional-store/repository/local/org.specs2/specs2_2.9.2/1.12.3/jars/specs2_2.9.2.jar[0m
+[0m[[0mdebug[0m] [0m	local: resource not reachable for org.specs2#specs2_2.9.2;1.12.3: res=/home/shanai/play/play-2.1.3-for-functional-store/repository/local/org.specs2/specs2_2.9.2/1.12.3/jars/specs2_2.9.2.jar[0m
+[0m[[0mdebug[0m] [0m	 trying http://repo.typesafe.com/typesafe/releases/org/specs2/specs2_2.9.2/1.12.3/specs2_2.9.2-1.12.3.jar[0m
+[0m[[0mdebug[0m] [0m		tried http://repo.typesafe.com/typesafe/releases/org/specs2/specs2_2.9.2/1.12.3/specs2_2.9.2-1.12.3.jar[0m
+[0m[[0mdebug[0m] [0mHTTP response status: 404 url=http://repo.typesafe.com/typesafe/releases/org/specs2/specs2_2.9.2/1.12.3/specs2_2.9.2-1.12.3.jar[0m
+[0m[[0mdebug[0m] [0mCLIENT ERROR: Not Found url=http://repo.typesafe.com/typesafe/releases/org/specs2/specs2_2.9.2/1.12.3/specs2_2.9.2-1.12.3.jar[0m
+[0m[[0mdebug[0m] [0m	Typesafe Repository: resource not reachable for org/specs2#specs2_2.9.2;1.12.3: res=http://repo.typesafe.com/typesafe/releases/org/specs2/specs2_2.9.2/1.12.3/specs2_2.9.2-1.12.3.jar[0m
+[0m[[0mdebug[0m] [0m	 trying http://repo1.maven.org/maven2/org/specs2/specs2_2.9.2/1.12.3/specs2_2.9.2-1.12.3.jar[0m
+[0m[[0mdebug[0m] [0m		tried http://repo1.maven.org/maven2/org/specs2/specs2_2.9.2/1.12.3/specs2_2.9.2-1.12.3.jar[0m
+[0m[[0mdebug[0m] [0mno source artifact found for org.specs2#specs2_2.9.2;1.12.3[0m
+[0m[[0mdebug[0m] [0mno javadoc artifact found for org.specs2#specs2_2.9.2;1.12.3[0m
+[0m[[0mdebug[0m] [0m	default-cache: parsed downloaded md file for org.specs2#specs2_2.9.2;1.12.3; parsed=org.specs2#specs2_2.9.2;1.12.3[0m
+[0m[[0mdebug[0m] [0m	checking org.specs2#specs2_2.9.2;1.12.3 from public against [none][0m
+[0m[[0mdebug[0m] [0m	module revision kept as first found: org.specs2#specs2_2.9.2;1.12.3 from public[0m
+[0m[[0mdebug[0m] [0m	found org.specs2#specs2_2.9.2;1.12.3 in public[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies play#templates-compiler_2.9.2;2.1.3->org.specs2#specs2_2.9.2;1.12.3 [test->runtime][0m
 [0m[[0mdebug[0m] [0mloadData of org.specs2#specs2_2.9.2;1.12.3 of rootConf=test[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies play#templates-compiler_2.9.2;2.1.3->org.specs2#specs2_2.9.2;1.12.3 [test->compile][0m
@@ -407,16 +534,50 @@
 [0m[[0mdebug[0m] [0m	using sbt-chain to resolve org.specs2#specs2-scalaz-core_2.9.2;6.0.1[0m
 [0m[[0minfo[0m] [0mResolving org.specs2#specs2-scalaz-core_2.9.2;6.0.1 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.specs2#specs2-scalaz-core_2.9.2;6.0.1 {compile=[compile(*), master(*)], runtime=[runtime(*)]}[0m
-[0m[[0mdebug[0m] [0mNo entry is found in the ModuleDescriptorCache : /home/shanai/play/play-2.1.3-dash/repository/cache/org.specs2/specs2-scalaz-core_2.9.2/ivy-6.0.1.xml[0m
-[0m[[0mdebug[0m] [0mpost 1.3 ivy file: using exact as default matcher[0m
-[0m[[0mdebug[0m] [0m	found ivy file in cache for org.specs2#specs2-scalaz-core_2.9.2;6.0.1 (resolved by local): /home/shanai/play/play-2.1.3-dash/repository/cache/org.specs2/specs2-scalaz-core_2.9.2/ivy-6.0.1.xml[0m
-[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.specs2#specs2-scalaz-core_2.9.2;6.0.1[0m
-[0m[[0mdebug[0m] [0mEntry is found in the ModuleDescriptorCache : /home/shanai/play/play-2.1.3-dash/repository/cache/org.specs2/specs2-scalaz-core_2.9.2/ivy-6.0.1.xml[0m
-[0m[[0mdebug[0m] [0m	found ivy file in cache for org.specs2#specs2-scalaz-core_2.9.2;6.0.1 (resolved by local): /home/shanai/play/play-2.1.3-dash/repository/cache/org.specs2/specs2-scalaz-core_2.9.2/ivy-6.0.1.xml[0m
-[0m[[0mdebug[0m] [0m	local: revision in cache: org.specs2#specs2-scalaz-core_2.9.2;6.0.1[0m
-[0m[[0mdebug[0m] [0m	checking org.specs2#specs2-scalaz-core_2.9.2;6.0.1 from local against [none][0m
-[0m[[0mdebug[0m] [0m	module revision kept as first found: org.specs2#specs2-scalaz-core_2.9.2;6.0.1 from local[0m
-[0m[[0mdebug[0m] [0m	found org.specs2#specs2-scalaz-core_2.9.2;6.0.1 in local[0m
+[0m[[0mdebug[0m] [0m	no ivy file in cache for org.specs2#specs2-scalaz-core_2.9.2;6.0.1: tried /home/shanai/play/play-2.1.3-for-functional-store/repository/cache/org.specs2/specs2-scalaz-core_2.9.2/ivy-6.0.1.xml[0m
+[0m[[0mdebug[0m] [0m	no ivy file in cache for org.specs2#specs2-scalaz-core_2.9.2;6.0.1: tried /home/shanai/play/play-2.1.3-for-functional-store/repository/cache/org.specs2/specs2-scalaz-core_2.9.2/ivy-6.0.1.xml[0m
+[0m[[0mdebug[0m] [0m	 trying /home/shanai/play/play-2.1.3-for-functional-store/repository/local/org.specs2/specs2-scalaz-core_2.9.2/6.0.1/ivys/ivy.xml[0m
+[0m[[0mdebug[0m] [0m		tried /home/shanai/play/play-2.1.3-for-functional-store/repository/local/org.specs2/specs2-scalaz-core_2.9.2/6.0.1/ivys/ivy.xml[0m
+[0m[[0mdebug[0m] [0m	local: resource not reachable for org.specs2#specs2-scalaz-core_2.9.2;6.0.1: res=/home/shanai/play/play-2.1.3-for-functional-store/repository/local/org.specs2/specs2-scalaz-core_2.9.2/6.0.1/ivys/ivy.xml[0m
+[0m[[0mdebug[0m] [0m	local: no ivy file found for org.specs2#specs2-scalaz-core_2.9.2;6.0.1[0m
+[0m[[0mdebug[0m] [0m	no ivy file in cache for org.specs2#specs2-scalaz-core_2.9.2;6.0.1: tried /home/shanai/play/play-2.1.3-for-functional-store/repository/cache/org.specs2/specs2-scalaz-core_2.9.2/ivy-6.0.1.xml[0m
+[0m[[0mdebug[0m] [0m	 trying http://repo.typesafe.com/typesafe/releases/org/specs2/specs2-scalaz-core_2.9.2/6.0.1/specs2-scalaz-core_2.9.2-6.0.1.pom[0m
+[0m[[0mdebug[0m] [0m		tried http://repo.typesafe.com/typesafe/releases/org/specs2/specs2-scalaz-core_2.9.2/6.0.1/specs2-scalaz-core_2.9.2-6.0.1.pom[0m
+[0m[[0mdebug[0m] [0mHTTP response status: 404 url=http://repo.typesafe.com/typesafe/releases/org/specs2/specs2-scalaz-core_2.9.2/6.0.1/specs2-scalaz-core_2.9.2-6.0.1.pom[0m
+[0m[[0mdebug[0m] [0mCLIENT ERROR: Not Found url=http://repo.typesafe.com/typesafe/releases/org/specs2/specs2-scalaz-core_2.9.2/6.0.1/specs2-scalaz-core_2.9.2-6.0.1.pom[0m
+[0m[[0mdebug[0m] [0m	Typesafe Repository: resource not reachable for org/specs2#specs2-scalaz-core_2.9.2;6.0.1: res=http://repo.typesafe.com/typesafe/releases/org/specs2/specs2-scalaz-core_2.9.2/6.0.1/specs2-scalaz-core_2.9.2-6.0.1.pom[0m
+[0m[[0mdebug[0m] [0m	Typesafe Repository: no ivy file found for org.specs2#specs2-scalaz-core_2.9.2;6.0.1[0m
+[0m[[0mdebug[0m] [0m	no ivy file in cache for org.specs2#specs2-scalaz-core_2.9.2;6.0.1: tried /home/shanai/play/play-2.1.3-for-functional-store/repository/cache/org.specs2/specs2-scalaz-core_2.9.2/ivy-6.0.1.xml[0m
+[0m[[0mdebug[0m] [0m	 trying http://repo1.maven.org/maven2/org/specs2/specs2-scalaz-core_2.9.2/6.0.1/specs2-scalaz-core_2.9.2-6.0.1.pom[0m
+[0m[[0mdebug[0m] [0m		tried http://repo1.maven.org/maven2/org/specs2/specs2-scalaz-core_2.9.2/6.0.1/specs2-scalaz-core_2.9.2-6.0.1.pom[0m
+[0m[[0mdebug[0m] [0m	public: found md file for org.specs2#specs2-scalaz-core_2.9.2;6.0.1[0m
+[0m[[0mdebug[0m] [0m		=> http://repo1.maven.org/maven2/org/specs2/specs2-scalaz-core_2.9.2/6.0.1/specs2-scalaz-core_2.9.2-6.0.1.pom (6.0.1)[0m
+[0m[[0mdebug[0m] [0m	parser = sbt.CustomPomParser@6785fe9f[0m
+[0m[[0mdebug[0m] [0m	no ivy file in cache for org.specs2#specs2-scalaz-core_2.9.2;6.0.1: tried /home/shanai/play/play-2.1.3-for-functional-store/repository/cache/org.specs2/specs2-scalaz-core_2.9.2/ivy-6.0.1.xml[0m
+[0m[[0mdebug[0m] [0mdownloading http://repo1.maven.org/maven2/org/specs2/specs2-scalaz-core_2.9.2/6.0.1/specs2-scalaz-core_2.9.2-6.0.1.pom ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading http://repo1.maven.org/maven2/org/specs2/specs2-scalaz-core_2.9.2/6.0.1/specs2-scalaz-core_2.9.2-6.0.1.pom[0m
+[0m[[0mdebug[0m] [0m		to /home/shanai/play/play-2.1.3-for-functional-store/repository/cache/org.specs2/specs2-scalaz-core_2.9.2/ivy-6.0.1.xml.original.part[0m
+[0m[[0mdebug[0m] [0msha1 file found for http://repo1.maven.org/maven2/org/specs2/specs2-scalaz-core_2.9.2/6.0.1/specs2-scalaz-core_2.9.2-6.0.1.pom: checking...[0m
+[0m[[0mdebug[0m] [0m	public: downloading http://repo1.maven.org/maven2/org/specs2/specs2-scalaz-core_2.9.2/6.0.1/specs2-scalaz-core_2.9.2-6.0.1.pom.sha1[0m
+[0m[[0mdebug[0m] [0m		to /tmp/ivytmp5335159576111894131sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for http://repo1.maven.org/maven2/org/specs2/specs2-scalaz-core_2.9.2/6.0.1/specs2-scalaz-core_2.9.2-6.0.1.pom[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.specs2#specs2-scalaz-core_2.9.2;6.0.1!specs2-scalaz-core_2.9.2.pom(pom.original) (595ms)[0m
+[0m[[0mdebug[0m] [0m	 trying /home/shanai/play/play-2.1.3-for-functional-store/repository/local/org.specs2/specs2-scalaz-core_2.9.2/6.0.1/jars/specs2-scalaz-core_2.9.2.jar[0m
+[0m[[0mdebug[0m] [0m		tried /home/shanai/play/play-2.1.3-for-functional-store/repository/local/org.specs2/specs2-scalaz-core_2.9.2/6.0.1/jars/specs2-scalaz-core_2.9.2.jar[0m
+[0m[[0mdebug[0m] [0m	local: resource not reachable for org.specs2#specs2-scalaz-core_2.9.2;6.0.1: res=/home/shanai/play/play-2.1.3-for-functional-store/repository/local/org.specs2/specs2-scalaz-core_2.9.2/6.0.1/jars/specs2-scalaz-core_2.9.2.jar[0m
+[0m[[0mdebug[0m] [0m	 trying http://repo.typesafe.com/typesafe/releases/org/specs2/specs2-scalaz-core_2.9.2/6.0.1/specs2-scalaz-core_2.9.2-6.0.1.jar[0m
+[0m[[0mdebug[0m] [0m		tried http://repo.typesafe.com/typesafe/releases/org/specs2/specs2-scalaz-core_2.9.2/6.0.1/specs2-scalaz-core_2.9.2-6.0.1.jar[0m
+[0m[[0mdebug[0m] [0mHTTP response status: 404 url=http://repo.typesafe.com/typesafe/releases/org/specs2/specs2-scalaz-core_2.9.2/6.0.1/specs2-scalaz-core_2.9.2-6.0.1.jar[0m
+[0m[[0mdebug[0m] [0mCLIENT ERROR: Not Found url=http://repo.typesafe.com/typesafe/releases/org/specs2/specs2-scalaz-core_2.9.2/6.0.1/specs2-scalaz-core_2.9.2-6.0.1.jar[0m
+[0m[[0mdebug[0m] [0m	Typesafe Repository: resource not reachable for org/specs2#specs2-scalaz-core_2.9.2;6.0.1: res=http://repo.typesafe.com/typesafe/releases/org/specs2/specs2-scalaz-core_2.9.2/6.0.1/specs2-scalaz-core_2.9.2-6.0.1.jar[0m
+[0m[[0mdebug[0m] [0m	 trying http://repo1.maven.org/maven2/org/specs2/specs2-scalaz-core_2.9.2/6.0.1/specs2-scalaz-core_2.9.2-6.0.1.jar[0m
+[0m[[0mdebug[0m] [0m		tried http://repo1.maven.org/maven2/org/specs2/specs2-scalaz-core_2.9.2/6.0.1/specs2-scalaz-core_2.9.2-6.0.1.jar[0m
+[0m[[0mdebug[0m] [0mno source artifact found for org.specs2#specs2-scalaz-core_2.9.2;6.0.1[0m
+[0m[[0mdebug[0m] [0mno javadoc artifact found for org.specs2#specs2-scalaz-core_2.9.2;6.0.1[0m
+[0m[[0mdebug[0m] [0m	default-cache: parsed downloaded md file for org.specs2#specs2-scalaz-core_2.9.2;6.0.1; parsed=org.specs2#specs2-scalaz-core_2.9.2;6.0.1[0m
+[0m[[0mdebug[0m] [0m	checking org.specs2#specs2-scalaz-core_2.9.2;6.0.1 from public against [none][0m
+[0m[[0mdebug[0m] [0m	module revision kept as first found: org.specs2#specs2-scalaz-core_2.9.2;6.0.1 from public[0m
+[0m[[0mdebug[0m] [0m	found org.specs2#specs2-scalaz-core_2.9.2;6.0.1 in public[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.specs2#specs2_2.9.2;1.12.3->org.specs2#specs2-scalaz-core_2.9.2;6.0.1 [compile->compile(*)][0m
 [0m[[0mdebug[0m] [0mloadData of org.specs2#specs2-scalaz-core_2.9.2;6.0.1 of rootConf=test[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies org.specs2#specs2-scalaz-core_2.9.2;6.0.1->org.scala-lang#scala-library;2.9.2 [compile->master(*)][0m
@@ -864,10 +1025,28 @@
 [0m[[0mdebug[0m] [0morg.scala-lang#scala-library;2.9.2 in runtime: excluding org.scala-lang#scala-library;2.9.2!scala-library.jar[0m
 [0m[[0mdebug[0m] [0morg.scala-lang#scala-library;2.9.2 in runtime-internal: excluding org.scala-lang#scala-library;2.9.2!scala-library.jar[0m
 [0m[[0mdebug[0m] [0morg.scala-lang#scala-library;2.9.2 in compile-internal: excluding org.scala-lang#scala-library;2.9.2!scala-library.jar[0m
-[0m[[0mdebug[0m] [0m	resolved ivy file produced in /home/shanai/play/play-2.1.3-dash/framework/src/templates-compiler/target/resolution-cache/play/templates-compiler_2.9.2/2.1.3/resolved.xml.xml[0m
+[0m[[0mdebug[0m] [0m	resolved ivy file produced in /home/shanai/play/play-2.1.3-for-functional-store/framework/src/templates-compiler/target/resolution-cache/play/templates-compiler_2.9.2/2.1.3/resolved.xml.xml[0m
 [0m[[0mdebug[0m] [0m:: downloading artifacts ::[0m
-[0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.github.scala-incubator.io#scala-io-file_2.9.2;0.4.1!scala-io-file_2.9.2.jar[0m
-[0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.github.scala-incubator.io#scala-io-core_2.9.2;0.4.1!scala-io-core_2.9.2.jar[0m
+[0m[[0mdebug[0m] [0m	 trying http://repo1.maven.org/maven2/com/github/scala-incubator/io/scala-io-file_2.9.2/0.4.1/scala-io-file_2.9.2-0.4.1.jar[0m
+[0m[[0mdebug[0m] [0m		tried http://repo1.maven.org/maven2/com/github/scala-incubator/io/scala-io-file_2.9.2/0.4.1/scala-io-file_2.9.2-0.4.1.jar[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/com/github/scala-incubator/io/scala-io-file_2.9.2/0.4.1/scala-io-file_2.9.2-0.4.1.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading http://repo1.maven.org/maven2/com/github/scala-incubator/io/scala-io-file_2.9.2/0.4.1/scala-io-file_2.9.2-0.4.1.jar[0m
+[0m[[0mdebug[0m] [0m		to /home/shanai/play/play-2.1.3-for-functional-store/repository/cache/com.github.scala-incubator.io/scala-io-file_2.9.2/jars/scala-io-file_2.9.2-0.4.1.jar.part[0m
+[0m[[0mdebug[0m] [0msha1 file found for http://repo1.maven.org/maven2/com/github/scala-incubator/io/scala-io-file_2.9.2/0.4.1/scala-io-file_2.9.2-0.4.1.jar: checking...[0m
+[0m[[0mdebug[0m] [0m	public: downloading http://repo1.maven.org/maven2/com/github/scala-incubator/io/scala-io-file_2.9.2/0.4.1/scala-io-file_2.9.2-0.4.1.jar.sha1[0m
+[0m[[0mdebug[0m] [0m		to /tmp/ivytmp2317196898493850892sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for http://repo1.maven.org/maven2/com/github/scala-incubator/io/scala-io-file_2.9.2/0.4.1/scala-io-file_2.9.2-0.4.1.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.github.scala-incubator.io#scala-io-file_2.9.2;0.4.1!scala-io-file_2.9.2.jar (1903ms)[0m
+[0m[[0mdebug[0m] [0m	 trying http://repo1.maven.org/maven2/com/github/scala-incubator/io/scala-io-core_2.9.2/0.4.1/scala-io-core_2.9.2-0.4.1.jar[0m
+[0m[[0mdebug[0m] [0m		tried http://repo1.maven.org/maven2/com/github/scala-incubator/io/scala-io-core_2.9.2/0.4.1/scala-io-core_2.9.2-0.4.1.jar[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/com/github/scala-incubator/io/scala-io-core_2.9.2/0.4.1/scala-io-core_2.9.2-0.4.1.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading http://repo1.maven.org/maven2/com/github/scala-incubator/io/scala-io-core_2.9.2/0.4.1/scala-io-core_2.9.2-0.4.1.jar[0m
+[0m[[0mdebug[0m] [0m		to /home/shanai/play/play-2.1.3-for-functional-store/repository/cache/com.github.scala-incubator.io/scala-io-core_2.9.2/jars/scala-io-core_2.9.2-0.4.1.jar.part[0m
+[0m[[0mdebug[0m] [0msha1 file found for http://repo1.maven.org/maven2/com/github/scala-incubator/io/scala-io-core_2.9.2/0.4.1/scala-io-core_2.9.2-0.4.1.jar: checking...[0m
+[0m[[0mdebug[0m] [0m	public: downloading http://repo1.maven.org/maven2/com/github/scala-incubator/io/scala-io-core_2.9.2/0.4.1/scala-io-core_2.9.2-0.4.1.jar.sha1[0m
+[0m[[0mdebug[0m] [0m		to /tmp/ivytmp4800628379876209911sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for http://repo1.maven.org/maven2/com/github/scala-incubator/io/scala-io-core_2.9.2/0.4.1/scala-io-core_2.9.2-0.4.1.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.github.scala-incubator.io#scala-io-core_2.9.2;0.4.1!scala-io-core_2.9.2.jar (2973ms)[0m
 [0m[[0mdebug[0m] [0morg.scala-lang#scala-library;2.9.2 in test-internal: excluding org.scala-lang#scala-library;2.9.2!scala-library.jar[0m
 [0m[[0mdebug[0m] [0morg.scala-lang#scala-library;2.9.2 in test: excluding org.scala-lang#scala-library;2.9.2!scala-library.jar[0m
 [0m[[0mdebug[0m] [0morg.scala-lang#scala-library;2.9.2 in compile: excluding org.scala-lang#scala-library;2.9.2!scala-library.jar[0m
@@ -881,10 +1060,37 @@
 [0m[[0mdebug[0m] [0morg.scala-lang#scala-library;2.9.2 in runtime-internal: excluding org.scala-lang#scala-library;2.9.2!scala-library.jar[0m
 [0m[[0mdebug[0m] [0morg.scala-lang#scala-library;2.9.2 in compile-internal: excluding org.scala-lang#scala-library;2.9.2!scala-library.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.github.jsuereth.scala-arm#scala-arm_2.9.1;1.1!scala-arm_2.9.1.jar[0m
-[0m[[0mdebug[0m] [0m	[NOT REQUIRED] com.typesafe.akka#akka-actor;2.0.1!akka-actor.jar[0m
-[0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.specs2#specs2_2.9.2;1.12.3!specs2_2.9.2.jar[0m
-[0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.specs2#specs2-scalaz-core_2.9.2;6.0.1!specs2-scalaz-core_2.9.2.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 52ms :: artifacts dl 3ms[0m
+[0m[[0mdebug[0m] [0m	 trying http://repo.typesafe.com/typesafe/releases/com/typesafe/akka/akka-actor/2.0.1/akka-actor-2.0.1.jar[0m
+[0m[[0mdebug[0m] [0m		tried http://repo.typesafe.com/typesafe/releases/com/typesafe/akka/akka-actor/2.0.1/akka-actor-2.0.1.jar[0m
+[0m[[0minfo[0m] [0mdownloading http://repo.typesafe.com/typesafe/releases/com/typesafe/akka/akka-actor/2.0.1/akka-actor-2.0.1.jar ...[0m
+[0m[[0mdebug[0m] [0m	Typesafe Repository: downloading http://repo.typesafe.com/typesafe/releases/com/typesafe/akka/akka-actor/2.0.1/akka-actor-2.0.1.jar[0m
+[0m[[0mdebug[0m] [0m		to /home/shanai/play/play-2.1.3-for-functional-store/repository/cache/com.typesafe.akka/akka-actor/jars/akka-actor-2.0.1.jar.part[0m
+[0m[[0mdebug[0m] [0msha1 file found for http://repo.typesafe.com/typesafe/releases/com/typesafe/akka/akka-actor/2.0.1/akka-actor-2.0.1.jar: checking...[0m
+[0m[[0mdebug[0m] [0m	Typesafe Repository: downloading http://repo.typesafe.com/typesafe/releases/com/typesafe/akka/akka-actor/2.0.1/akka-actor-2.0.1.jar.sha1[0m
+[0m[[0mdebug[0m] [0m		to /tmp/ivytmp3089144913718290600sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for http://repo.typesafe.com/typesafe/releases/com/typesafe/akka/akka-actor/2.0.1/akka-actor-2.0.1.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] com.typesafe.akka#akka-actor;2.0.1!akka-actor.jar (4058ms)[0m
+[0m[[0mdebug[0m] [0m	 trying http://repo1.maven.org/maven2/org/specs2/specs2_2.9.2/1.12.3/specs2_2.9.2-1.12.3.jar[0m
+[0m[[0mdebug[0m] [0m		tried http://repo1.maven.org/maven2/org/specs2/specs2_2.9.2/1.12.3/specs2_2.9.2-1.12.3.jar[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/org/specs2/specs2_2.9.2/1.12.3/specs2_2.9.2-1.12.3.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading http://repo1.maven.org/maven2/org/specs2/specs2_2.9.2/1.12.3/specs2_2.9.2-1.12.3.jar[0m
+[0m[[0mdebug[0m] [0m		to /home/shanai/play/play-2.1.3-for-functional-store/repository/cache/org.specs2/specs2_2.9.2/jars/specs2_2.9.2-1.12.3.jar.part[0m
+[0m[[0mdebug[0m] [0msha1 file found for http://repo1.maven.org/maven2/org/specs2/specs2_2.9.2/1.12.3/specs2_2.9.2-1.12.3.jar: checking...[0m
+[0m[[0mdebug[0m] [0m	public: downloading http://repo1.maven.org/maven2/org/specs2/specs2_2.9.2/1.12.3/specs2_2.9.2-1.12.3.jar.sha1[0m
+[0m[[0mdebug[0m] [0m		to /tmp/ivytmp322025066151293720sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for http://repo1.maven.org/maven2/org/specs2/specs2_2.9.2/1.12.3/specs2_2.9.2-1.12.3.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.specs2#specs2_2.9.2;1.12.3!specs2_2.9.2.jar (4794ms)[0m
+[0m[[0mdebug[0m] [0m	 trying http://repo1.maven.org/maven2/org/specs2/specs2-scalaz-core_2.9.2/6.0.1/specs2-scalaz-core_2.9.2-6.0.1.jar[0m
+[0m[[0mdebug[0m] [0m		tried http://repo1.maven.org/maven2/org/specs2/specs2-scalaz-core_2.9.2/6.0.1/specs2-scalaz-core_2.9.2-6.0.1.jar[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/org/specs2/specs2-scalaz-core_2.9.2/6.0.1/specs2-scalaz-core_2.9.2-6.0.1.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading http://repo1.maven.org/maven2/org/specs2/specs2-scalaz-core_2.9.2/6.0.1/specs2-scalaz-core_2.9.2-6.0.1.jar[0m
+[0m[[0mdebug[0m] [0m		to /home/shanai/play/play-2.1.3-for-functional-store/repository/cache/org.specs2/specs2-scalaz-core_2.9.2/jars/specs2-scalaz-core_2.9.2-6.0.1.jar.part[0m
+[0m[[0mdebug[0m] [0msha1 file found for http://repo1.maven.org/maven2/org/specs2/specs2-scalaz-core_2.9.2/6.0.1/specs2-scalaz-core_2.9.2-6.0.1.jar: checking...[0m
+[0m[[0mdebug[0m] [0m	public: downloading http://repo1.maven.org/maven2/org/specs2/specs2-scalaz-core_2.9.2/6.0.1/specs2-scalaz-core_2.9.2-6.0.1.jar.sha1[0m
+[0m[[0mdebug[0m] [0m		to /tmp/ivytmp7539641059649255177sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for http://repo1.maven.org/maven2/org/specs2/specs2-scalaz-core_2.9.2/6.0.1/specs2-scalaz-core_2.9.2-6.0.1.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.specs2#specs2-scalaz-core_2.9.2;6.0.1!specs2-scalaz-core_2.9.2.jar (2422ms)[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 6899ms :: artifacts dl 16158ms[0m
 [0m[[0mdebug[0m] [0mNbr of module to sort : 5[0m
 [0m[[0mdebug[0m] [0mSort dependencies of : com.github.scala-incubator.io#scala-io-file_2.9.2;0.4.1 / Number of dependencies = 3[0m
 [0m[[0mdebug[0m] [0mSort dependencies of : com.github.scala-incubator.io#scala-io-core_2.9.2;0.4.1 / Number of dependencies = 4[0m
@@ -903,7 +1109,7 @@
 [0m[[0mdebug[0m] [0mModule descriptor is processed : org.scala-lang#scala-library;2.9.2[0m
 [0m[[0mdebug[0m] [0mModule descriptor is processed : com.github.jsuereth.scala-arm#scala-arm_2.9.1;1.1[0m
 [0m[[0mdebug[0m] [0mModule descriptor is processed : com.typesafe.akka#akka-actor;2.0.1[0m
-[0m[[0mdebug[0m] [0m	report for play#templates-compiler_2.9.2;2.1.3 compile produced in /home/shanai/play/play-2.1.3-dash/framework/src/templates-compiler/target/resolution-cache/reports/play-templates-compiler_2.9.2/compile-resolved.xml[0m
+[0m[[0mdebug[0m] [0m	report for play#templates-compiler_2.9.2;2.1.3 compile produced in /home/shanai/play/play-2.1.3-for-functional-store/framework/src/templates-compiler/target/resolution-cache/reports/play-templates-compiler_2.9.2/compile-resolved.xml[0m
 [0m[[0mdebug[0m] [0mNbr of module to sort : 5[0m
 [0m[[0mdebug[0m] [0mSort dependencies of : com.github.scala-incubator.io#scala-io-file_2.9.2;0.4.1 / Number of dependencies = 3[0m
 [0m[[0mdebug[0m] [0mSort dependencies of : com.github.scala-incubator.io#scala-io-core_2.9.2;0.4.1 / Number of dependencies = 4[0m
@@ -922,7 +1128,7 @@
 [0m[[0mdebug[0m] [0mModule descriptor is processed : org.scala-lang#scala-library;2.9.2[0m
 [0m[[0mdebug[0m] [0mModule descriptor is processed : com.github.jsuereth.scala-arm#scala-arm_2.9.1;1.1[0m
 [0m[[0mdebug[0m] [0mModule descriptor is processed : com.typesafe.akka#akka-actor;2.0.1[0m
-[0m[[0mdebug[0m] [0m	report for play#templates-compiler_2.9.2;2.1.3 runtime produced in /home/shanai/play/play-2.1.3-dash/framework/src/templates-compiler/target/resolution-cache/reports/play-templates-compiler_2.9.2/runtime-resolved.xml[0m
+[0m[[0mdebug[0m] [0m	report for play#templates-compiler_2.9.2;2.1.3 runtime produced in /home/shanai/play/play-2.1.3-for-functional-store/framework/src/templates-compiler/target/resolution-cache/reports/play-templates-compiler_2.9.2/runtime-resolved.xml[0m
 [0m[[0mdebug[0m] [0mNbr of module to sort : 7[0m
 [0m[[0mdebug[0m] [0mSort dependencies of : com.github.scala-incubator.io#scala-io-file_2.9.2;0.4.1 / Number of dependencies = 3[0m
 [0m[[0mdebug[0m] [0mSort dependencies of : com.github.scala-incubator.io#scala-io-core_2.9.2;0.4.1 / Number of dependencies = 4[0m
@@ -947,11 +1153,11 @@
 [0m[[0mdebug[0m] [0mSort done for : org.specs2#specs2-scalaz-core_2.9.2;6.0.1[0m
 [0m[[0mdebug[0m] [0mSort done for : org.specs2#specs2_2.9.2;1.12.3[0m
 [0m[[0mdebug[0m] [0mModule descriptor is processed : org.specs2#specs2-scalaz-core_2.9.2;6.0.1[0m
-[0m[[0mdebug[0m] [0m	report for play#templates-compiler_2.9.2;2.1.3 test produced in /home/shanai/play/play-2.1.3-dash/framework/src/templates-compiler/target/resolution-cache/reports/play-templates-compiler_2.9.2/test-resolved.xml[0m
+[0m[[0mdebug[0m] [0m	report for play#templates-compiler_2.9.2;2.1.3 test produced in /home/shanai/play/play-2.1.3-for-functional-store/framework/src/templates-compiler/target/resolution-cache/reports/play-templates-compiler_2.9.2/test-resolved.xml[0m
 [0m[[0mdebug[0m] [0mNbr of module to sort : 0[0m
-[0m[[0mdebug[0m] [0m	report for play#templates-compiler_2.9.2;2.1.3 provided produced in /home/shanai/play/play-2.1.3-dash/framework/src/templates-compiler/target/resolution-cache/reports/play-templates-compiler_2.9.2/provided-resolved.xml[0m
+[0m[[0mdebug[0m] [0m	report for play#templates-compiler_2.9.2;2.1.3 provided produced in /home/shanai/play/play-2.1.3-for-functional-store/framework/src/templates-compiler/target/resolution-cache/reports/play-templates-compiler_2.9.2/provided-resolved.xml[0m
 [0m[[0mdebug[0m] [0mNbr of module to sort : 0[0m
-[0m[[0mdebug[0m] [0m	report for play#templates-compiler_2.9.2;2.1.3 optional produced in /home/shanai/play/play-2.1.3-dash/framework/src/templates-compiler/target/resolution-cache/reports/play-templates-compiler_2.9.2/optional-resolved.xml[0m
+[0m[[0mdebug[0m] [0m	report for play#templates-compiler_2.9.2;2.1.3 optional produced in /home/shanai/play/play-2.1.3-for-functional-store/framework/src/templates-compiler/target/resolution-cache/reports/play-templates-compiler_2.9.2/optional-resolved.xml[0m
 [0m[[0mdebug[0m] [0mNbr of module to sort : 5[0m
 [0m[[0mdebug[0m] [0mSort dependencies of : com.github.scala-incubator.io#scala-io-file_2.9.2;0.4.1 / Number of dependencies = 3[0m
 [0m[[0mdebug[0m] [0mSort dependencies of : com.github.scala-incubator.io#scala-io-core_2.9.2;0.4.1 / Number of dependencies = 4[0m
@@ -970,7 +1176,7 @@
 [0m[[0mdebug[0m] [0mModule descriptor is processed : org.scala-lang#scala-library;2.9.2[0m
 [0m[[0mdebug[0m] [0mModule descriptor is processed : com.github.jsuereth.scala-arm#scala-arm_2.9.1;1.1[0m
 [0m[[0mdebug[0m] [0mModule descriptor is processed : com.typesafe.akka#akka-actor;2.0.1[0m
-[0m[[0mdebug[0m] [0m	report for play#templates-compiler_2.9.2;2.1.3 compile-internal produced in /home/shanai/play/play-2.1.3-dash/framework/src/templates-compiler/target/resolution-cache/reports/play-templates-compiler_2.9.2/compile-internal-resolved.xml[0m
+[0m[[0mdebug[0m] [0m	report for play#templates-compiler_2.9.2;2.1.3 compile-internal produced in /home/shanai/play/play-2.1.3-for-functional-store/framework/src/templates-compiler/target/resolution-cache/reports/play-templates-compiler_2.9.2/compile-internal-resolved.xml[0m
 [0m[[0mdebug[0m] [0mNbr of module to sort : 5[0m
 [0m[[0mdebug[0m] [0mSort dependencies of : com.github.scala-incubator.io#scala-io-file_2.9.2;0.4.1 / Number of dependencies = 3[0m
 [0m[[0mdebug[0m] [0mSort dependencies of : com.github.scala-incubator.io#scala-io-core_2.9.2;0.4.1 / Number of dependencies = 4[0m
@@ -989,7 +1195,7 @@
 [0m[[0mdebug[0m] [0mModule descriptor is processed : org.scala-lang#scala-library;2.9.2[0m
 [0m[[0mdebug[0m] [0mModule descriptor is processed : com.github.jsuereth.scala-arm#scala-arm_2.9.1;1.1[0m
 [0m[[0mdebug[0m] [0mModule descriptor is processed : com.typesafe.akka#akka-actor;2.0.1[0m
-[0m[[0mdebug[0m] [0m	report for play#templates-compiler_2.9.2;2.1.3 runtime-internal produced in /home/shanai/play/play-2.1.3-dash/framework/src/templates-compiler/target/resolution-cache/reports/play-templates-compiler_2.9.2/runtime-internal-resolved.xml[0m
+[0m[[0mdebug[0m] [0m	report for play#templates-compiler_2.9.2;2.1.3 runtime-internal produced in /home/shanai/play/play-2.1.3-for-functional-store/framework/src/templates-compiler/target/resolution-cache/reports/play-templates-compiler_2.9.2/runtime-internal-resolved.xml[0m
 [0m[[0mdebug[0m] [0mNbr of module to sort : 7[0m
 [0m[[0mdebug[0m] [0mSort dependencies of : com.github.scala-incubator.io#scala-io-file_2.9.2;0.4.1 / Number of dependencies = 3[0m
 [0m[[0mdebug[0m] [0mSort dependencies of : com.github.scala-incubator.io#scala-io-core_2.9.2;0.4.1 / Number of dependencies = 4[0m
@@ -1014,14 +1220,14 @@
 [0m[[0mdebug[0m] [0mSort done for : org.specs2#specs2-scalaz-core_2.9.2;6.0.1[0m
 [0m[[0mdebug[0m] [0mSort done for : org.specs2#specs2_2.9.2;1.12.3[0m
 [0m[[0mdebug[0m] [0mModule descriptor is processed : org.specs2#specs2-scalaz-core_2.9.2;6.0.1[0m
-[0m[[0mdebug[0m] [0m	report for play#templates-compiler_2.9.2;2.1.3 test-internal produced in /home/shanai/play/play-2.1.3-dash/framework/src/templates-compiler/target/resolution-cache/reports/play-templates-compiler_2.9.2/test-internal-resolved.xml[0m
+[0m[[0mdebug[0m] [0m	report for play#templates-compiler_2.9.2;2.1.3 test-internal produced in /home/shanai/play/play-2.1.3-for-functional-store/framework/src/templates-compiler/target/resolution-cache/reports/play-templates-compiler_2.9.2/test-internal-resolved.xml[0m
 [0m[[0mdebug[0m] [0mNbr of module to sort : 0[0m
-[0m[[0mdebug[0m] [0m	report for play#templates-compiler_2.9.2;2.1.3 plugin produced in /home/shanai/play/play-2.1.3-dash/framework/src/templates-compiler/target/resolution-cache/reports/play-templates-compiler_2.9.2/plugin-resolved.xml[0m
+[0m[[0mdebug[0m] [0m	report for play#templates-compiler_2.9.2;2.1.3 plugin produced in /home/shanai/play/play-2.1.3-for-functional-store/framework/src/templates-compiler/target/resolution-cache/reports/play-templates-compiler_2.9.2/plugin-resolved.xml[0m
 [0m[[0mdebug[0m] [0mNbr of module to sort : 0[0m
-[0m[[0mdebug[0m] [0m	report for play#templates-compiler_2.9.2;2.1.3 sources produced in /home/shanai/play/play-2.1.3-dash/framework/src/templates-compiler/target/resolution-cache/reports/play-templates-compiler_2.9.2/sources-resolved.xml[0m
+[0m[[0mdebug[0m] [0m	report for play#templates-compiler_2.9.2;2.1.3 sources produced in /home/shanai/play/play-2.1.3-for-functional-store/framework/src/templates-compiler/target/resolution-cache/reports/play-templates-compiler_2.9.2/sources-resolved.xml[0m
 [0m[[0mdebug[0m] [0mNbr of module to sort : 0[0m
-[0m[[0mdebug[0m] [0m	report for play#templates-compiler_2.9.2;2.1.3 docs produced in /home/shanai/play/play-2.1.3-dash/framework/src/templates-compiler/target/resolution-cache/reports/play-templates-compiler_2.9.2/docs-resolved.xml[0m
+[0m[[0mdebug[0m] [0m	report for play#templates-compiler_2.9.2;2.1.3 docs produced in /home/shanai/play/play-2.1.3-for-functional-store/framework/src/templates-compiler/target/resolution-cache/reports/play-templates-compiler_2.9.2/docs-resolved.xml[0m
 [0m[[0mdebug[0m] [0mNbr of module to sort : 0[0m
-[0m[[0mdebug[0m] [0m	report for play#templates-compiler_2.9.2;2.1.3 pom produced in /home/shanai/play/play-2.1.3-dash/framework/src/templates-compiler/target/resolution-cache/reports/play-templates-compiler_2.9.2/pom-resolved.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (52ms resolve - 3ms download)[0m
+[0m[[0mdebug[0m] [0m	report for play#templates-compiler_2.9.2;2.1.3 pom produced in /home/shanai/play/play-2.1.3-for-functional-store/framework/src/templates-compiler/target/resolution-cache/reports/play-templates-compiler_2.9.2/pom-resolved.xml[0m
+[0m[[0mdebug[0m] [0m	resolve done (6899ms resolve - 16158ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m

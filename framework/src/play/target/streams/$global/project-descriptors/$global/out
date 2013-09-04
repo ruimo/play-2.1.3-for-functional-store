@@ -1,0 +1,25 @@
+[0m[[0mdebug[0m] [0msetting 'ivy.default.settings.dir' to 'jar:file:/home/shanai/play/play-2.1.3-for-functional-store/framework/sbt/boot/scala-2.9.2/org.scala-sbt/sbt/0.12.2/ivy-2.3.0-rc1.jar!/org/apache/ivy/core/settings'[0m
+[0m[[0mdebug[0m] [0msetting 'ivy.basedir' to '/home/shanai/play/play-2.1.3-for-functional-store/framework/.'[0m
+[0m[[0mdebug[0m] [0msetting 'ivy.default.conf.dir' to 'jar:file:/home/shanai/play/play-2.1.3-for-functional-store/framework/sbt/boot/scala-2.9.2/org.scala-sbt/sbt/0.12.2/ivy-2.3.0-rc1.jar!/org/apache/ivy/core/settings'[0m
+[0m[[0mdebug[0m] [0msetting 'sbt.ivy.home' to './../repository'[0m
+[0m[[0mdebug[0m] [0msetting 'java.runtime.name' to 'OpenJDK Runtime Environment'[0m
+[0m[[0mdebug[0m] [0msetting 'sun.boot.library.path' to '/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/amd64'[0m
+[0m[[0mdebug[0m] [0msetting 'java.vm.version' to '23.7-b01'[0m
+[0m[[0mdebug[0m] [0msetting 'java.vm.vendor' to 'Oracle Corporation'[0m
+[0m[[0mdebug[0m] [0msetting 'java.vendor.url' to 'http://java.oracle.com/'[0m
+[0m[[0mdebug[0m] [0mpost 1.3 ivy file: using exact as default matcher[0m
+[0m[[0mdebug[0m] [0msetting 'path.separator' to ':'[0m
+[0m[[0mdebug[0m] [0msetting 'java.vm.name' to 'OpenJDK 64-Bit Server VM'[0m
+[0m[[0mdebug[0m] [0msetting 'file.encoding.pkg' to 'sun.io'[0m
+[0m[[0mdebug[0m] [0msetting 'user.country' to 'JP'[0m
+[0m[[0mdebug[0m] [0msetting 'sun.java.launcher' to 'SUN_STANDARD'[0m
+[0m[[0mdebug[0m] [0msetting 'sun.os.patch.level' to 'unknown'[0m
+[0m[[0mdebug[0m] [0msetting 'java.vm.specification.name' to 'Java Virtual Machine Specification'[0m
+[0m[[0mdebug[0m] [0msetting 'user.dir' to '/home/shanai/play/play-2.1.3-for-functional-store/framework'[0m
+[0m[[0mdebug[0m] [0msetting 'java.runtime.version' to '1.7.0_25-b30'[0m
+[0m[[0mdebug[0m] [0msetting 'sbt.boot.properties' to './sbt/sbt.boot.properties'[0m
+[0m[[0mdebug[0m] [0msetting 'java.awt.graphicsenv' to 'sun.awt.X11GraphicsEnvironment'[0m
+[0m[[0mdebug[0m] [0msetting 'java.endorsed.dirs' to '/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/endorsed'[0m
+[0m[[0mdebug[0m] [0msetting 'os.arch' to 'amd64'[0m
+[0m[[0mdebug[0m] [0msetting 'java.io.tmpdir' to '/tmp'[0m
+[0m[[0mdebug[0m] [0mpost 1.3 ivy file: using exact as default matcher[0m

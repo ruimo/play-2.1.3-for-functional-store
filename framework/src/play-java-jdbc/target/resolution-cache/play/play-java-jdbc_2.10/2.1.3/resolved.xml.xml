@@ -4,7 +4,7 @@
 		module="play-java-jdbc_2.10"
 		revision="2.1.3"
 		status="integration"
-		publication="20130825191414"
+		publication="20130825205626"
 	>
 		<description>
 		Play-Java-JDBC

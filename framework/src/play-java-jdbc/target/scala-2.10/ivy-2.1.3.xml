@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
-	<info organisation="play" module="play-java-jdbc_2.10" revision="2.1.3" status="release" publication="20130825191416">
+	<info organisation="play" module="play-java-jdbc_2.10" revision="2.1.3" status="release" publication="20130825205832">
 		<description>
 		Play-Java-JDBC
 		</description>

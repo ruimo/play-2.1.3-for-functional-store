@@ -42,8 +42,8 @@ Seq[Any](format.raw/*4.184*/("""
 }
                 /*
                     -- GENERATED --
-                    DATE: Sun Aug 25 19:14:13 JST 2013
-                    SOURCE: /home/shanai/play/play-2.1.3-dash/framework/src/play/src/main/scala/views/helper/input.scala.html
+                    DATE: Sun Aug 25 20:55:00 JST 2013
+                    SOURCE: /home/shanai/play/play-2.1.3-for-functional-store/framework/src/play/src/main/scala/views/helper/input.scala.html
                     HASH: b9ede6334fc64256d52d05fb43f5d429e029fb0d
                     MATRIX: 620->42|862->227|871->229|965->224|994->292|1031->295|1267->510
                     LINES: 17->4|19->6|19->6|20->4|22->6|24->8|32->16

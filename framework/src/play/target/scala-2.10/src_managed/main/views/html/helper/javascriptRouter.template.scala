@@ -76,8 +76,8 @@ Seq[Any](format.raw/*25.121*/("""
 }
                 /*
                     -- GENERATED --
-                    DATE: Sun Aug 25 19:14:13 JST 2013
-                    SOURCE: /home/shanai/play/play-2.1.3-dash/framework/src/play/src/main/scala/views/helper/javascriptRouter.scala.html
+                    DATE: Sun Aug 25 20:55:00 JST 2013
+                    SOURCE: /home/shanai/play/play-2.1.3-for-functional-store/framework/src/play/src/main/scala/views/helper/javascriptRouter.scala.html
                     HASH: 7adef82b94712efc6c281aae5385f0c7998c9a52
                     MATRIX: 1897->718|2095->837|2169->876|2246->931
                     LINES: 59->25|62->25|65->28|65->28

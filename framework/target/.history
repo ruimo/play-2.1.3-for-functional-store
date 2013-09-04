@@ -1,2 +1,7 @@
 build-repository
 publish-local
+build-repository
+compile
+pulish-local
+publish-local
+test

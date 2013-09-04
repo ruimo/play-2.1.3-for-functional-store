@@ -1,71 +1,5 @@
-[0m[[0minfo[0m] [0mUpdating {file:/home/shanai/play/play-2.1.3-dash/framework/}SBT-link...[0m
-[0m[[0mdebug[0m] [0msetting 'ivy.default.settings.dir' to 'jar:file:/home/shanai/play/play-2.1.3-dash/framework/sbt/boot/scala-2.9.2/org.scala-sbt/sbt/0.12.2/ivy-2.3.0-rc1.jar!/org/apache/ivy/core/settings'[0m
-[0m[[0mdebug[0m] [0msetting 'ivy.basedir' to '/home/shanai/play/play-2.1.3-dash/framework/.'[0m
-[0m[[0mdebug[0m] [0msetting 'ivy.default.conf.dir' to 'jar:file:/home/shanai/play/play-2.1.3-dash/framework/sbt/boot/scala-2.9.2/org.scala-sbt/sbt/0.12.2/ivy-2.3.0-rc1.jar!/org/apache/ivy/core/settings'[0m
-[0m[[0mdebug[0m] [0msetting 'sbt.ivy.home' to './../repository'[0m
-[0m[[0mdebug[0m] [0msetting 'java.runtime.name' to 'OpenJDK Runtime Environment'[0m
-[0m[[0mdebug[0m] [0msetting 'sun.boot.library.path' to '/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/amd64'[0m
-[0m[[0mdebug[0m] [0msetting 'java.vm.version' to '23.7-b01'[0m
-[0m[[0mdebug[0m] [0msetting 'java.vm.vendor' to 'Oracle Corporation'[0m
-[0m[[0mdebug[0m] [0msetting 'java.vendor.url' to 'http://java.oracle.com/'[0m
-[0m[[0mdebug[0m] [0msetting 'path.separator' to ':'[0m
-[0m[[0mdebug[0m] [0msetting 'java.vm.name' to 'OpenJDK 64-Bit Server VM'[0m
-[0m[[0mdebug[0m] [0msetting 'file.encoding.pkg' to 'sun.io'[0m
-[0m[[0mdebug[0m] [0msetting 'user.country' to 'JP'[0m
-[0m[[0mdebug[0m] [0msetting 'sun.java.launcher' to 'SUN_STANDARD'[0m
-[0m[[0mdebug[0m] [0msetting 'sun.os.patch.level' to 'unknown'[0m
-[0m[[0mdebug[0m] [0msetting 'java.vm.specification.name' to 'Java Virtual Machine Specification'[0m
-[0m[[0mdebug[0m] [0msetting 'user.dir' to '/home/shanai/play/play-2.1.3-dash/framework'[0m
-[0m[[0mdebug[0m] [0msetting 'java.runtime.version' to '1.7.0_25-b30'[0m
-[0m[[0mdebug[0m] [0msetting 'sbt.boot.properties' to './sbt/sbt.boot.properties'[0m
-[0m[[0mdebug[0m] [0msetting 'java.awt.graphicsenv' to 'sun.awt.X11GraphicsEnvironment'[0m
-[0m[[0mdebug[0m] [0msetting 'java.endorsed.dirs' to '/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/endorsed'[0m
-[0m[[0mdebug[0m] [0msetting 'os.arch' to 'amd64'[0m
-[0m[[0mdebug[0m] [0msetting 'java.io.tmpdir' to '/tmp'[0m
-[0m[[0mdebug[0m] [0msetting 'line.separator' to '[0m
-[0m[[0mdebug[0m] [0m'[0m
-[0m[[0mdebug[0m] [0msetting 'java.vm.specification.vendor' to 'Oracle Corporation'[0m
-[0m[[0mdebug[0m] [0msetting 'os.name' to 'Linux'[0m
-[0m[[0mdebug[0m] [0msetting 'sun.jnu.encoding' to 'UTF-8'[0m
-[0m[[0mdebug[0m] [0msetting 'java.library.path' to '/usr/java/packages/lib/amd64:/usr/lib/jni:/lib:/usr/lib'[0m
-[0m[[0mdebug[0m] [0msetting 'java.specification.name' to 'Java Platform API Specification'[0m
-[0m[[0mdebug[0m] [0msetting 'java.class.version' to '51.0'[0m
-[0m[[0mdebug[0m] [0msetting 'play.home' to '.'[0m
-[0m[[0mdebug[0m] [0msetting 'sun.management.compiler' to 'HotSpot 64-Bit Tiered Compilers'[0m
-[0m[[0mdebug[0m] [0msetting 'os.version' to '3.5.0-37-generic'[0m
-[0m[[0mdebug[0m] [0msetting 'user.home' to '/home/shanai'[0m
-[0m[[0mdebug[0m] [0msetting 'user.timezone' to 'Asia/Tokyo'[0m
-[0m[[0mdebug[0m] [0msetting 'java.awt.printerjob' to 'sun.print.PSPrinterJob'[0m
-[0m[[0mdebug[0m] [0msetting 'file.encoding' to 'UTF-8'[0m
-[0m[[0mdebug[0m] [0msetting 'java.specification.version' to '1.7'[0m
-[0m[[0mdebug[0m] [0msetting 'java.class.path' to './sbt/sbt-launch.jar'[0m
+[0m[[0minfo[0m] [0mUpdating {file:/home/shanai/play/play-2.1.3-for-functional-store/framework/}SBT-link...[0m
 [0m[[0mdebug[0m] [0mpost 1.3 ivy file: using exact as default matcher[0m
-[0m[[0mdebug[0m] [0msetting 'user.name' to 'shanai'[0m
-[0m[[0mdebug[0m] [0msetting 'play.version' to '2.1.3'[0m
-[0m[[0mdebug[0m] [0msetting 'java.vm.specification.version' to '1.7'[0m
-[0m[[0mdebug[0m] [0msetting 'sun.java.command' to './sbt/sbt-launch.jar'[0m
-[0m[[0mdebug[0m] [0msetting 'java.home' to '/usr/lib/jvm/java-7-openjdk-amd64/jre'[0m
-[0m[[0mdebug[0m] [0msetting 'sun.arch.data.model' to '64'[0m
-[0m[[0mdebug[0m] [0msetting 'user.language' to 'ja'[0m
-[0m[[0mdebug[0m] [0msetting 'java.specification.vendor' to 'Oracle Corporation'[0m
-[0m[[0mdebug[0m] [0msetting 'awt.toolkit' to 'sun.awt.X11.XToolkit'[0m
-[0m[[0mdebug[0m] [0msetting 'java.vm.info' to 'mixed mode'[0m
-[0m[[0mdebug[0m] [0msetting 'java.version' to '1.7.0_25'[0m
-[0m[[0mdebug[0m] [0msetting 'java.ext.dirs' to '/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/ext:/usr/java/packages/lib/ext'[0m
-[0m[[0mdebug[0m] [0msetting 'sun.boot.class.path' to '/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/netx.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/plugin.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rhino.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/classes'[0m
-[0m[[0mdebug[0m] [0msetting 'java.vendor' to 'Oracle Corporation'[0m
-[0m[[0mdebug[0m] [0msetting 'file.separator' to '/'[0m
-[0m[[0mdebug[0m] [0msetting 'java.vendor.url.bug' to 'http://bugreport.sun.com/bugreport/'[0m
-[0m[[0mdebug[0m] [0msetting 'sun.io.unicode.encoding' to 'UnicodeLittle'[0m
-[0m[[0mdebug[0m] [0msetting 'sun.cpu.endian' to 'little'[0m
-[0m[[0mdebug[0m] [0msetting 'sun.cpu.isalist' to ''[0m
-[0m[[0mdebug[0m] [0msetting 'ivy.basedir' to '/home/shanai/play/play-2.1.3-dash/framework/src/console'[0m
-[0m[[0mdebug[0m] [0msetting 'basedir' to '/home/shanai/play/play-2.1.3-dash/framework/src/console'[0m
-[0m[[0mdebug[0m] [0msetting 'ivy.checksums' to 'sha1,md5'[0m
-[0m[[0mdebug[0m] [0msetting 'ivy.default.ivy.user.dir' to '/home/shanai/play/play-2.1.3-dash/repository'[0m
-[0m[[0mdebug[0m] [0msetting 'ivy.home' to '/home/shanai/play/play-2.1.3-dash/repository'[0m
-[0m[[0mdebug[0m] [0msetting 'ivy.cache.dir' to '/home/shanai/play/play-2.1.3-dash/repository/cache'[0m
-[0m[[0mdebug[0m] [0mno default cache defined: set to /home/shanai/play/play-2.1.3-dash/repository/cache[0m
 [0m[[0mdebug[0m] [0m:: resolving dependencies :: play#sbt-link;2.1.3[0m
 [0m[[0mdebug[0m] [0m	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom][0m
 [0m[[0mdebug[0m] [0m	validate = true[0m
@@ -79,18 +13,54 @@
 [0m[[0minfo[0m] [0mResolving org.javassist#javassist;3.16.1-GA ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.javassist#javassist;3.16.1-GA {compile=[default(compile)]}[0m
 [0m[[0mdebug[0m] [0msbt-chain: no namespace defined: using system[0m
-[0m[[0mdebug[0m] [0mNo entry is found in the ModuleDescriptorCache : /home/shanai/play/play-2.1.3-dash/repository/cache/org.javassist/javassist/ivy-3.16.1-GA.xml[0m
-[0m[[0mdebug[0m] [0mpost 1.3 ivy file: using exact as default matcher[0m
-[0m[[0mdebug[0m] [0m	found ivy file in cache for org.javassist#javassist;3.16.1-GA (resolved by local): /home/shanai/play/play-2.1.3-dash/repository/cache/org.javassist/javassist/ivy-3.16.1-GA.xml[0m
-[0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.javassist#javassist;3.16.1-GA[0m
+[0m[[0mdebug[0m] [0m	no ivy file in cache for org.javassist#javassist;3.16.1-GA: tried /home/shanai/play/play-2.1.3-for-functional-store/repository/cache/org.javassist/javassist/ivy-3.16.1-GA.xml[0m
 [0m[[0mdebug[0m] [0msbt-chain: no latest strategy defined: using default[0m
 [0m[[0mdebug[0m] [0mlocal: no namespace defined: using system[0m
-[0m[[0mdebug[0m] [0mEntry is found in the ModuleDescriptorCache : /home/shanai/play/play-2.1.3-dash/repository/cache/org.javassist/javassist/ivy-3.16.1-GA.xml[0m
-[0m[[0mdebug[0m] [0m	found ivy file in cache for org.javassist#javassist;3.16.1-GA (resolved by local): /home/shanai/play/play-2.1.3-dash/repository/cache/org.javassist/javassist/ivy-3.16.1-GA.xml[0m
-[0m[[0mdebug[0m] [0m	local: revision in cache: org.javassist#javassist;3.16.1-GA[0m
-[0m[[0mdebug[0m] [0m	checking org.javassist#javassist;3.16.1-GA from local against [none][0m
-[0m[[0mdebug[0m] [0m	module revision kept as first found: org.javassist#javassist;3.16.1-GA from local[0m
-[0m[[0mdebug[0m] [0m	found org.javassist#javassist;3.16.1-GA in local[0m
+[0m[[0mdebug[0m] [0m	no ivy file in cache for org.javassist#javassist;3.16.1-GA: tried /home/shanai/play/play-2.1.3-for-functional-store/repository/cache/org.javassist/javassist/ivy-3.16.1-GA.xml[0m
+[0m[[0mdebug[0m] [0m	 trying /home/shanai/play/play-2.1.3-for-functional-store/repository/local/org.javassist/javassist/3.16.1-GA/ivys/ivy.xml[0m
+[0m[[0mdebug[0m] [0m		tried /home/shanai/play/play-2.1.3-for-functional-store/repository/local/org.javassist/javassist/3.16.1-GA/ivys/ivy.xml[0m
+[0m[[0mdebug[0m] [0m	local: resource not reachable for org.javassist#javassist;3.16.1-GA: res=/home/shanai/play/play-2.1.3-for-functional-store/repository/local/org.javassist/javassist/3.16.1-GA/ivys/ivy.xml[0m
+[0m[[0mdebug[0m] [0m	local: no ivy file found for org.javassist#javassist;3.16.1-GA[0m
+[0m[[0mdebug[0m] [0mTypesafe Repository: no namespace defined: using system[0m
+[0m[[0mdebug[0m] [0m	no ivy file in cache for org.javassist#javassist;3.16.1-GA: tried /home/shanai/play/play-2.1.3-for-functional-store/repository/cache/org.javassist/javassist/ivy-3.16.1-GA.xml[0m
+[0m[[0mdebug[0m] [0m	 trying http://repo.typesafe.com/typesafe/releases/org/javassist/javassist/3.16.1-GA/javassist-3.16.1-GA.pom[0m
+[0m[[0mdebug[0m] [0m		tried http://repo.typesafe.com/typesafe/releases/org/javassist/javassist/3.16.1-GA/javassist-3.16.1-GA.pom[0m
+[0m[[0mdebug[0m] [0mHTTP response status: 404 url=http://repo.typesafe.com/typesafe/releases/org/javassist/javassist/3.16.1-GA/javassist-3.16.1-GA.pom[0m
+[0m[[0mdebug[0m] [0mCLIENT ERROR: Not Found url=http://repo.typesafe.com/typesafe/releases/org/javassist/javassist/3.16.1-GA/javassist-3.16.1-GA.pom[0m
+[0m[[0mdebug[0m] [0m	Typesafe Repository: resource not reachable for org/javassist#javassist;3.16.1-GA: res=http://repo.typesafe.com/typesafe/releases/org/javassist/javassist/3.16.1-GA/javassist-3.16.1-GA.pom[0m
+[0m[[0mdebug[0m] [0m	Typesafe Repository: no ivy file found for org.javassist#javassist;3.16.1-GA[0m
+[0m[[0mdebug[0m] [0mpublic: no namespace defined: using system[0m
+[0m[[0mdebug[0m] [0m	no ivy file in cache for org.javassist#javassist;3.16.1-GA: tried /home/shanai/play/play-2.1.3-for-functional-store/repository/cache/org.javassist/javassist/ivy-3.16.1-GA.xml[0m
+[0m[[0mdebug[0m] [0m	 trying http://repo1.maven.org/maven2/org/javassist/javassist/3.16.1-GA/javassist-3.16.1-GA.pom[0m
+[0m[[0mdebug[0m] [0m		tried http://repo1.maven.org/maven2/org/javassist/javassist/3.16.1-GA/javassist-3.16.1-GA.pom[0m
+[0m[[0mdebug[0m] [0m	public: found md file for org.javassist#javassist;3.16.1-GA[0m
+[0m[[0mdebug[0m] [0m		=> http://repo1.maven.org/maven2/org/javassist/javassist/3.16.1-GA/javassist-3.16.1-GA.pom (3.16.1-GA)[0m
+[0m[[0mdebug[0m] [0m	parser = sbt.CustomPomParser@6785fe9f[0m
+[0m[[0mdebug[0m] [0m	no ivy file in cache for org.javassist#javassist;3.16.1-GA: tried /home/shanai/play/play-2.1.3-for-functional-store/repository/cache/org.javassist/javassist/ivy-3.16.1-GA.xml[0m
+[0m[[0mdebug[0m] [0mdownloading http://repo1.maven.org/maven2/org/javassist/javassist/3.16.1-GA/javassist-3.16.1-GA.pom ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading http://repo1.maven.org/maven2/org/javassist/javassist/3.16.1-GA/javassist-3.16.1-GA.pom[0m
+[0m[[0mdebug[0m] [0m		to /home/shanai/play/play-2.1.3-for-functional-store/repository/cache/org.javassist/javassist/ivy-3.16.1-GA.xml.original.part[0m
+[0m[[0mdebug[0m] [0msha1 file found for http://repo1.maven.org/maven2/org/javassist/javassist/3.16.1-GA/javassist-3.16.1-GA.pom: checking...[0m
+[0m[[0mdebug[0m] [0m	public: downloading http://repo1.maven.org/maven2/org/javassist/javassist/3.16.1-GA/javassist-3.16.1-GA.pom.sha1[0m
+[0m[[0mdebug[0m] [0m		to /tmp/ivytmp857288329120609158sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for http://repo1.maven.org/maven2/org/javassist/javassist/3.16.1-GA/javassist-3.16.1-GA.pom[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.javassist#javassist;3.16.1-GA!javassist.pom(pom.original) (487ms)[0m
+[0m[[0mdebug[0m] [0m	 trying /home/shanai/play/play-2.1.3-for-functional-store/repository/local/org.javassist/javassist/3.16.1-GA/jars/javassist.jar[0m
+[0m[[0mdebug[0m] [0m		tried /home/shanai/play/play-2.1.3-for-functional-store/repository/local/org.javassist/javassist/3.16.1-GA/jars/javassist.jar[0m
+[0m[[0mdebug[0m] [0m	local: resource not reachable for org.javassist#javassist;3.16.1-GA: res=/home/shanai/play/play-2.1.3-for-functional-store/repository/local/org.javassist/javassist/3.16.1-GA/jars/javassist.jar[0m
+[0m[[0mdebug[0m] [0m	 trying http://repo.typesafe.com/typesafe/releases/org/javassist/javassist/3.16.1-GA/javassist-3.16.1-GA.jar[0m
+[0m[[0mdebug[0m] [0m		tried http://repo.typesafe.com/typesafe/releases/org/javassist/javassist/3.16.1-GA/javassist-3.16.1-GA.jar[0m
+[0m[[0mdebug[0m] [0mHTTP response status: 404 url=http://repo.typesafe.com/typesafe/releases/org/javassist/javassist/3.16.1-GA/javassist-3.16.1-GA.jar[0m
+[0m[[0mdebug[0m] [0mCLIENT ERROR: Not Found url=http://repo.typesafe.com/typesafe/releases/org/javassist/javassist/3.16.1-GA/javassist-3.16.1-GA.jar[0m
+[0m[[0mdebug[0m] [0m	Typesafe Repository: resource not reachable for org/javassist#javassist;3.16.1-GA: res=http://repo.typesafe.com/typesafe/releases/org/javassist/javassist/3.16.1-GA/javassist-3.16.1-GA.jar[0m
+[0m[[0mdebug[0m] [0m	 trying http://repo1.maven.org/maven2/org/javassist/javassist/3.16.1-GA/javassist-3.16.1-GA.jar[0m
+[0m[[0mdebug[0m] [0m		tried http://repo1.maven.org/maven2/org/javassist/javassist/3.16.1-GA/javassist-3.16.1-GA.jar[0m
+[0m[[0mdebug[0m] [0mno source artifact found for org.javassist#javassist;3.16.1-GA[0m
+[0m[[0mdebug[0m] [0mno javadoc artifact found for org.javassist#javassist;3.16.1-GA[0m
+[0m[[0mdebug[0m] [0m	default-cache: parsed downloaded md file for org.javassist#javassist;3.16.1-GA; parsed=org.javassist#javassist;3.16.1-GA[0m
+[0m[[0mdebug[0m] [0m	checking org.javassist#javassist;3.16.1-GA from public against [none][0m
+[0m[[0mdebug[0m] [0m	module revision kept as first found: org.javassist#javassist;3.16.1-GA from public[0m
+[0m[[0mdebug[0m] [0m	found org.javassist#javassist;3.16.1-GA in public[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies play#sbt-link;2.1.3->org.javassist#javassist;3.16.1-GA [compile->runtime][0m
 [0m[[0mdebug[0m] [0mloadData of org.javassist#javassist;3.16.1-GA of rootConf=compile[0m
 [0m[[0mdebug[0m] [0m== resolving dependencies play#sbt-link;2.1.3->org.javassist#javassist;3.16.1-GA [compile->compile][0m
@@ -230,45 +200,54 @@
 [0m[[0mdebug[0m] [0mNbr of module to sort : 1[0m
 [0m[[0mdebug[0m] [0mSort dependencies of : org.javassist#javassist;3.16.1-GA / Number of dependencies = 1[0m
 [0m[[0mdebug[0m] [0mSort done for : org.javassist#javassist;3.16.1-GA[0m
-[0m[[0mdebug[0m] [0m	resolved ivy file produced in /home/shanai/play/play-2.1.3-dash/framework/src/sbt-link/target/resolution-cache/play/sbt-link/2.1.3/resolved.xml.xml[0m
+[0m[[0mdebug[0m] [0m	resolved ivy file produced in /home/shanai/play/play-2.1.3-for-functional-store/framework/src/sbt-link/target/resolution-cache/play/sbt-link/2.1.3/resolved.xml.xml[0m
 [0m[[0mdebug[0m] [0m:: downloading artifacts ::[0m
-[0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.javassist#javassist;3.16.1-GA!javassist.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 14ms :: artifacts dl 0ms[0m
+[0m[[0mdebug[0m] [0m	 trying http://repo1.maven.org/maven2/org/javassist/javassist/3.16.1-GA/javassist-3.16.1-GA.jar[0m
+[0m[[0mdebug[0m] [0m		tried http://repo1.maven.org/maven2/org/javassist/javassist/3.16.1-GA/javassist-3.16.1-GA.jar[0m
+[0m[[0minfo[0m] [0mdownloading http://repo1.maven.org/maven2/org/javassist/javassist/3.16.1-GA/javassist-3.16.1-GA.jar ...[0m
+[0m[[0mdebug[0m] [0m	public: downloading http://repo1.maven.org/maven2/org/javassist/javassist/3.16.1-GA/javassist-3.16.1-GA.jar[0m
+[0m[[0mdebug[0m] [0m		to /home/shanai/play/play-2.1.3-for-functional-store/repository/cache/org.javassist/javassist/jars/javassist-3.16.1-GA.jar.part[0m
+[0m[[0mdebug[0m] [0msha1 file found for http://repo1.maven.org/maven2/org/javassist/javassist/3.16.1-GA/javassist-3.16.1-GA.jar: checking...[0m
+[0m[[0mdebug[0m] [0m	public: downloading http://repo1.maven.org/maven2/org/javassist/javassist/3.16.1-GA/javassist-3.16.1-GA.jar.sha1[0m
+[0m[[0mdebug[0m] [0m		to /tmp/ivytmp5416209722567119210sha1[0m
+[0m[[0mdebug[0m] [0msha1 OK for http://repo1.maven.org/maven2/org/javassist/javassist/3.16.1-GA/javassist-3.16.1-GA.jar[0m
+[0m[[0minfo[0m] [0m	[SUCCESSFUL ] org.javassist#javassist;3.16.1-GA!javassist.jar (865ms)[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 1428ms :: artifacts dl 865ms[0m
 [0m[[0mdebug[0m] [0mNbr of module to sort : 1[0m
 [0m[[0mdebug[0m] [0mSort dependencies of : org.javassist#javassist;3.16.1-GA / Number of dependencies = 1[0m
 [0m[[0mdebug[0m] [0mSort done for : org.javassist#javassist;3.16.1-GA[0m
-[0m[[0mdebug[0m] [0m	report for play#sbt-link;2.1.3 compile produced in /home/shanai/play/play-2.1.3-dash/framework/src/sbt-link/target/resolution-cache/reports/play-sbt-link/compile-resolved.xml[0m
+[0m[[0mdebug[0m] [0m	report for play#sbt-link;2.1.3 compile produced in /home/shanai/play/play-2.1.3-for-functional-store/framework/src/sbt-link/target/resolution-cache/reports/play-sbt-link/compile-resolved.xml[0m
 [0m[[0mdebug[0m] [0mNbr of module to sort : 1[0m
 [0m[[0mdebug[0m] [0mSort dependencies of : org.javassist#javassist;3.16.1-GA / Number of dependencies = 1[0m
 [0m[[0mdebug[0m] [0mSort done for : org.javassist#javassist;3.16.1-GA[0m
-[0m[[0mdebug[0m] [0m	report for play#sbt-link;2.1.3 runtime produced in /home/shanai/play/play-2.1.3-dash/framework/src/sbt-link/target/resolution-cache/reports/play-sbt-link/runtime-resolved.xml[0m
+[0m[[0mdebug[0m] [0m	report for play#sbt-link;2.1.3 runtime produced in /home/shanai/play/play-2.1.3-for-functional-store/framework/src/sbt-link/target/resolution-cache/reports/play-sbt-link/runtime-resolved.xml[0m
 [0m[[0mdebug[0m] [0mNbr of module to sort : 1[0m
 [0m[[0mdebug[0m] [0mSort dependencies of : org.javassist#javassist;3.16.1-GA / Number of dependencies = 1[0m
 [0m[[0mdebug[0m] [0mSort done for : org.javassist#javassist;3.16.1-GA[0m
-[0m[[0mdebug[0m] [0m	report for play#sbt-link;2.1.3 test produced in /home/shanai/play/play-2.1.3-dash/framework/src/sbt-link/target/resolution-cache/reports/play-sbt-link/test-resolved.xml[0m
+[0m[[0mdebug[0m] [0m	report for play#sbt-link;2.1.3 test produced in /home/shanai/play/play-2.1.3-for-functional-store/framework/src/sbt-link/target/resolution-cache/reports/play-sbt-link/test-resolved.xml[0m
 [0m[[0mdebug[0m] [0mNbr of module to sort : 0[0m
-[0m[[0mdebug[0m] [0m	report for play#sbt-link;2.1.3 provided produced in /home/shanai/play/play-2.1.3-dash/framework/src/sbt-link/target/resolution-cache/reports/play-sbt-link/provided-resolved.xml[0m
+[0m[[0mdebug[0m] [0m	report for play#sbt-link;2.1.3 provided produced in /home/shanai/play/play-2.1.3-for-functional-store/framework/src/sbt-link/target/resolution-cache/reports/play-sbt-link/provided-resolved.xml[0m
 [0m[[0mdebug[0m] [0mNbr of module to sort : 0[0m
-[0m[[0mdebug[0m] [0m	report for play#sbt-link;2.1.3 optional produced in /home/shanai/play/play-2.1.3-dash/framework/src/sbt-link/target/resolution-cache/reports/play-sbt-link/optional-resolved.xml[0m
+[0m[[0mdebug[0m] [0m	report for play#sbt-link;2.1.3 optional produced in /home/shanai/play/play-2.1.3-for-functional-store/framework/src/sbt-link/target/resolution-cache/reports/play-sbt-link/optional-resolved.xml[0m
 [0m[[0mdebug[0m] [0mNbr of module to sort : 1[0m
 [0m[[0mdebug[0m] [0mSort dependencies of : org.javassist#javassist;3.16.1-GA / Number of dependencies = 1[0m
 [0m[[0mdebug[0m] [0mSort done for : org.javassist#javassist;3.16.1-GA[0m
-[0m[[0mdebug[0m] [0m	report for play#sbt-link;2.1.3 compile-internal produced in /home/shanai/play/play-2.1.3-dash/framework/src/sbt-link/target/resolution-cache/reports/play-sbt-link/compile-internal-resolved.xml[0m
+[0m[[0mdebug[0m] [0m	report for play#sbt-link;2.1.3 compile-internal produced in /home/shanai/play/play-2.1.3-for-functional-store/framework/src/sbt-link/target/resolution-cache/reports/play-sbt-link/compile-internal-resolved.xml[0m
 [0m[[0mdebug[0m] [0mNbr of module to sort : 1[0m
 [0m[[0mdebug[0m] [0mSort dependencies of : org.javassist#javassist;3.16.1-GA / Number of dependencies = 1[0m
 [0m[[0mdebug[0m] [0mSort done for : org.javassist#javassist;3.16.1-GA[0m
-[0m[[0mdebug[0m] [0m	report for play#sbt-link;2.1.3 runtime-internal produced in /home/shanai/play/play-2.1.3-dash/framework/src/sbt-link/target/resolution-cache/reports/play-sbt-link/runtime-internal-resolved.xml[0m
+[0m[[0mdebug[0m] [0m	report for play#sbt-link;2.1.3 runtime-internal produced in /home/shanai/play/play-2.1.3-for-functional-store/framework/src/sbt-link/target/resolution-cache/reports/play-sbt-link/runtime-internal-resolved.xml[0m
 [0m[[0mdebug[0m] [0mNbr of module to sort : 1[0m
 [0m[[0mdebug[0m] [0mSort dependencies of : org.javassist#javassist;3.16.1-GA / Number of dependencies = 1[0m
 [0m[[0mdebug[0m] [0mSort done for : org.javassist#javassist;3.16.1-GA[0m
-[0m[[0mdebug[0m] [0m	report for play#sbt-link;2.1.3 test-internal produced in /home/shanai/play/play-2.1.3-dash/framework/src/sbt-link/target/resolution-cache/reports/play-sbt-link/test-internal-resolved.xml[0m
+[0m[[0mdebug[0m] [0m	report for play#sbt-link;2.1.3 test-internal produced in /home/shanai/play/play-2.1.3-for-functional-store/framework/src/sbt-link/target/resolution-cache/reports/play-sbt-link/test-internal-resolved.xml[0m
 [0m[[0mdebug[0m] [0mNbr of module to sort : 0[0m
-[0m[[0mdebug[0m] [0m	report for play#sbt-link;2.1.3 plugin produced in /home/shanai/play/play-2.1.3-dash/framework/src/sbt-link/target/resolution-cache/reports/play-sbt-link/plugin-resolved.xml[0m
+[0m[[0mdebug[0m] [0m	report for play#sbt-link;2.1.3 plugin produced in /home/shanai/play/play-2.1.3-for-functional-store/framework/src/sbt-link/target/resolution-cache/reports/play-sbt-link/plugin-resolved.xml[0m
 [0m[[0mdebug[0m] [0mNbr of module to sort : 0[0m
-[0m[[0mdebug[0m] [0m	report for play#sbt-link;2.1.3 sources produced in /home/shanai/play/play-2.1.3-dash/framework/src/sbt-link/target/resolution-cache/reports/play-sbt-link/sources-resolved.xml[0m
+[0m[[0mdebug[0m] [0m	report for play#sbt-link;2.1.3 sources produced in /home/shanai/play/play-2.1.3-for-functional-store/framework/src/sbt-link/target/resolution-cache/reports/play-sbt-link/sources-resolved.xml[0m
 [0m[[0mdebug[0m] [0mNbr of module to sort : 0[0m
-[0m[[0mdebug[0m] [0m	report for play#sbt-link;2.1.3 docs produced in /home/shanai/play/play-2.1.3-dash/framework/src/sbt-link/target/resolution-cache/reports/play-sbt-link/docs-resolved.xml[0m
+[0m[[0mdebug[0m] [0m	report for play#sbt-link;2.1.3 docs produced in /home/shanai/play/play-2.1.3-for-functional-store/framework/src/sbt-link/target/resolution-cache/reports/play-sbt-link/docs-resolved.xml[0m
 [0m[[0mdebug[0m] [0mNbr of module to sort : 0[0m
-[0m[[0mdebug[0m] [0m	report for play#sbt-link;2.1.3 pom produced in /home/shanai/play/play-2.1.3-dash/framework/src/sbt-link/target/resolution-cache/reports/play-sbt-link/pom-resolved.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (14ms resolve - 0ms download)[0m
+[0m[[0mdebug[0m] [0m	report for play#sbt-link;2.1.3 pom produced in /home/shanai/play/play-2.1.3-for-functional-store/framework/src/sbt-link/target/resolution-cache/reports/play-sbt-link/pom-resolved.xml[0m
+[0m[[0mdebug[0m] [0m	resolve done (1428ms resolve - 865ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m

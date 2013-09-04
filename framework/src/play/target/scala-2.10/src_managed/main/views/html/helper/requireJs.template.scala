@@ -49,8 +49,8 @@ Seq[Any](format.raw/*13.104*/("""
 }
                 /*
                     -- GENERATED --
-                    DATE: Sun Aug 25 19:14:13 JST 2013
-                    SOURCE: /home/shanai/play/play-2.1.3-dash/framework/src/play/src/main/scala/views/helper/requireJs.scala.html
+                    DATE: Sun Aug 25 20:55:00 JST 2013
+                    SOURCE: /home/shanai/play/play-2.1.3-for-functional-store/framework/src/play/src/main/scala/views/helper/requireJs.scala.html
                     HASH: 44b23cec3cd4b519c0596813637b6317e62a1427
                     MATRIX: 947->274|1128->376|1211->423|1398->587|1443->595|1470->599
                     LINES: 33->13|36->13|39->16|39->16|39->16|39->16

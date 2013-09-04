@@ -1,63 +1,15 @@
 [0m[[0mdebug[0m] [0m[0m
 [0m[[0mdebug[0m] [0mInitial source changes: [0m
 [0m[[0mdebug[0m] [0m	removed:Set()[0m
-[0m[[0mdebug[0m] [0m	added: Set(/home/shanai/play/play-2.1.3-dash/framework/src/iteratees/src/main/scala/play/api/libs/iteratee/Enumeratee.scala, /home/shanai/play/play-2.1.3-dash/framework/src/iteratees/src/main/scala/play/api/libs/iteratee/Concurrent.scala, /home/shanai/play/play-2.1.3-dash/framework/src/iteratees/src/main/scala/play/api/libs/iteratee/package.scala, /home/shanai/play/play-2.1.3-dash/framework/src/iteratees/src/main/scala/play/api/libs/iteratee/Iteratee.scala, /home/shanai/play/play-2.1.3-dash/framework/src/iteratees/src/main/scala/play/api/libs/iteratee/Enumerator.scala, /home/shanai/play/play-2.1.3-dash/framework/src/iteratees/src/main/scala/play/api/libs/iteratee/TraversableIteratee.scala)[0m
+[0m[[0mdebug[0m] [0m	added: Set()[0m
 [0m[[0mdebug[0m] [0m	modified: Set()[0m
 [0m[[0mdebug[0m] [0mRemoved products: Set()[0m
 [0m[[0mdebug[0m] [0mModified external sources: Set()[0m
 [0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
-[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/home/shanai/play/play-2.1.3-dash/framework/src/iteratees/src/main/scala/play/api/libs/iteratee/Enumeratee.scala, /home/shanai/play/play-2.1.3-dash/framework/src/iteratees/src/main/scala/play/api/libs/iteratee/Concurrent.scala, /home/shanai/play/play-2.1.3-dash/framework/src/iteratees/src/main/scala/play/api/libs/iteratee/package.scala, /home/shanai/play/play-2.1.3-dash/framework/src/iteratees/src/main/scala/play/api/libs/iteratee/Iteratee.scala, /home/shanai/play/play-2.1.3-dash/framework/src/iteratees/src/main/scala/play/api/libs/iteratee/Enumerator.scala, /home/shanai/play/play-2.1.3-dash/framework/src/iteratees/src/main/scala/play/api/libs/iteratee/TraversableIteratee.scala)[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set()[0m
 [0m[[0mdebug[0m] [0m[0m
 [0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
 [0m[[0mdebug[0m] [0m	product: Set()[0m
 [0m[[0mdebug[0m] [0m	binary dep: Set()[0m
 [0m[[0mdebug[0m] [0m	external source: Set()[0m
-[0m[[0mdebug[0m] [0mInitially invalidated: Set(/home/shanai/play/play-2.1.3-dash/framework/src/iteratees/src/main/scala/play/api/libs/iteratee/Enumeratee.scala, /home/shanai/play/play-2.1.3-dash/framework/src/iteratees/src/main/scala/play/api/libs/iteratee/Concurrent.scala, /home/shanai/play/play-2.1.3-dash/framework/src/iteratees/src/main/scala/play/api/libs/iteratee/package.scala, /home/shanai/play/play-2.1.3-dash/framework/src/iteratees/src/main/scala/play/api/libs/iteratee/Iteratee.scala, /home/shanai/play/play-2.1.3-dash/framework/src/iteratees/src/main/scala/play/api/libs/iteratee/Enumerator.scala, /home/shanai/play/play-2.1.3-dash/framework/src/iteratees/src/main/scala/play/api/libs/iteratee/TraversableIteratee.scala)[0m
-[0m[[0mdebug[0m] [0mRecompiling all 6 sources: invalidated sources (6) exceeded 50.0% of all sources[0m
-[0m[[0minfo[0m] [0mCompiling 6 Scala sources to /home/shanai/play/play-2.1.3-dash/framework/src/iteratees/target/scala-2.10/classes...[0m
-[0m[[0mdebug[0m] [0mRunning cached compiler 3116b201, interfacing (CompilerInterface) with Scala compiler version 2.10.0[0m
-[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
-[0m[[0mdebug[0m] [0m	-encoding[0m
-[0m[[0mdebug[0m] [0m	UTF-8[0m
-[0m[[0mdebug[0m] [0m	-Xlint[0m
-[0m[[0mdebug[0m] [0m	-deprecation[0m
-[0m[[0mdebug[0m] [0m	-unchecked[0m
-[0m[[0mdebug[0m] [0m	-feature[0m
-[0m[[0mdebug[0m] [0m	-d[0m
-[0m[[0mdebug[0m] [0m	/home/shanai/play/play-2.1.3-dash/framework/src/iteratees/target/scala-2.10/classes[0m
-[0m[[0mdebug[0m] [0m	-bootclasspath[0m
-[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/netx.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/plugin.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rhino.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/classes:/home/shanai/play/play-2.1.3-dash/framework/sbt/boot/scala-2.10.0/lib/scala-library.jar[0m
-[0m[[0mdebug[0m] [0m	-classpath[0m
-[0m[[0mdebug[0m] [0m	/home/shanai/play/play-2.1.3-dash/framework/src/iteratees/target/scala-2.10/classes:/home/shanai/play/play-2.1.3/repository/local/org.scala-stm/scala-stm_2.10.0/0.6/jars/scala-stm_2.10.0.jar:/home/shanai/play/play-2.1.3/repository/local/com.typesafe/config/1.0.0/bundles/config.jar:/home/shanai/play/play-2.1.3/repository/local/com.github.scala-incubator.io/scala-io-file_2.10/0.4.2/jars/scala-io-file_2.10.jar:/home/shanai/play/play-2.1.3/repository/local/com.github.scala-incubator.io/scala-io-core_2.10/0.4.2/jars/scala-io-core_2.10.jar:/home/shanai/play/play-2.1.3/repository/local/com.jsuereth/scala-arm_2.10/1.3/jars/scala-arm_2.10.jar[0m
-[0m[[33mwarn[0m] [0m/home/shanai/play/play-2.1.3-dash/framework/src/iteratees/src/main/scala/play/api/libs/iteratee/Enumerator.scala:113: reflective access of structural type member method apply should be enabled[0m
-[0m[[33mwarn[0m] [0mby making the implicit value language.reflectiveCalls visible.[0m
-[0m[[33mwarn[0m] [0mThis can be achieved by adding the import clause 'import scala.language.reflectiveCalls'[0m
-[0m[[33mwarn[0m] [0mor by setting the compiler option -language:reflectiveCalls.[0m
-[0m[[33mwarn[0m] [0mSee the Scala docs for value scala.language.reflectiveCalls for a discussion[0m
-[0m[[33mwarn[0m] [0mwhy the feature should be explicitly enabled.[0m
-[0m[[33mwarn[0m] [0m  def map[U](f: E => U): Enumerator[U] = parent &> Enumeratee.map[E](f)[0m
-[0m[[33mwarn[0m] [0m                                                                 ^[0m
-[0m[[33mwarn[0m] [0m/home/shanai/play/play-2.1.3-dash/framework/src/iteratees/src/main/scala/play/api/libs/iteratee/Enumerator.scala:115: reflective access of structural type member method apply should be enabled[0m
-[0m[[33mwarn[0m] [0mby making the implicit value language.reflectiveCalls visible.[0m
-[0m[[33mwarn[0m] [0m  def mapInput[U](f: Input[E] => Input[U]) = parent &> Enumeratee.mapInput[E](f)[0m
-[0m[[33mwarn[0m] [0m                                                                          ^[0m
-[0m[[33mwarn[0m] [0m/home/shanai/play/play-2.1.3-dash/framework/src/iteratees/src/main/scala/play/api/libs/iteratee/Concurrent.scala:503: trait Hub in object Concurrent is deprecated: use Concurrent.broadcast instead[0m
-[0m[[33mwarn[0m] [0m  def broadcast[E](e: Enumerator[E], interestIsDownToZero: Broadcaster => Unit = _ => ()): (Enumerator[E], Broadcaster) = { lazy val h: Hub[E] = hub(e, () => interestIsDownToZero(h)); (h.getPatchCord(), h) }[0m
-[0m[[33mwarn[0m] [0m                                                                                                                                        ^[0m
-[0m[[33mwarn[0m] [0m/home/shanai/play/play-2.1.3-dash/framework/src/iteratees/src/main/scala/play/api/libs/iteratee/Concurrent.scala:503: method hub in object Concurrent is deprecated: use Concurrent.broadcast instead[0m
-[0m[[33mwarn[0m] [0m  def broadcast[E](e: Enumerator[E], interestIsDownToZero: Broadcaster => Unit = _ => ()): (Enumerator[E], Broadcaster) = { lazy val h: Hub[E] = hub(e, () => interestIsDownToZero(h)); (h.getPatchCord(), h) }[0m
-[0m[[33mwarn[0m] [0m                                                                                                                                                 ^[0m
-[0m[[33mwarn[0m] [0m/home/shanai/play/play-2.1.3-dash/framework/src/iteratees/src/main/scala/play/api/libs/iteratee/Concurrent.scala:503: trait Hub in object Concurrent is deprecated: use Concurrent.broadcast instead[0m
-[0m[[33mwarn[0m] [0m  def broadcast[E](e: Enumerator[E], interestIsDownToZero: Broadcaster => Unit = _ => ()): (Enumerator[E], Broadcaster) = { lazy val h: Hub[E] = hub(e, () => interestIsDownToZero(h)); (h.getPatchCord(), h) }[0m
-[0m[[33mwarn[0m] [0m                                                                                                                                                                                        ^[0m
-[0m[[33mwarn[0m] [0m/home/shanai/play/play-2.1.3-dash/framework/src/iteratees/src/main/scala/play/api/libs/iteratee/Enumerator.scala:593: method fromCallback in object Enumerator is deprecated: use Enumerator.generateM instead[0m
-[0m[[33mwarn[0m] [0m    fromCallback(() => {[0m
-[0m[[33mwarn[0m] [0m    ^[0m
-[0m[[33mwarn[0m] [0m6 warnings found[0m
-[0m[[0mdebug[0m] [0mScala compilation took 35.655785296 s[0m
-[0m[[0mdebug[0m] [0mStep 2 changed sources and immdediate dependencies:[0m
-[0m[[0mdebug[0m] [0m	Set(/home/shanai/play/play-2.1.3-dash/framework/src/iteratees/src/main/scala/play/api/libs/iteratee/Enumeratee.scala, /home/shanai/play/play-2.1.3-dash/framework/src/iteratees/src/main/scala/play/api/libs/iteratee/Concurrent.scala, /home/shanai/play/play-2.1.3-dash/framework/src/iteratees/src/main/scala/play/api/libs/iteratee/package.scala, /home/shanai/play/play-2.1.3-dash/framework/src/iteratees/src/main/scala/play/api/libs/iteratee/Iteratee.scala, /home/shanai/play/play-2.1.3-dash/framework/src/iteratees/src/main/scala/play/api/libs/iteratee/Enumerator.scala, /home/shanai/play/play-2.1.3-dash/framework/src/iteratees/src/main/scala/play/api/libs/iteratee/TraversableIteratee.scala)[0m
-[0m[[0mdebug[0m] [0mNon-trivial strongly connected components: [0m
-[0m[[0mdebug[0m] [0m	Set(/home/shanai/play/play-2.1.3-dash/framework/src/iteratees/src/main/scala/play/api/libs/iteratee/Enumeratee.scala, /home/shanai/play/play-2.1.3-dash/framework/src/iteratees/src/main/scala/play/api/libs/iteratee/Concurrent.scala, /home/shanai/play/play-2.1.3-dash/framework/src/iteratees/src/main/scala/play/api/libs/iteratee/package.scala, /home/shanai/play/play-2.1.3-dash/framework/src/iteratees/src/main/scala/play/api/libs/iteratee/Iteratee.scala, /home/shanai/play/play-2.1.3-dash/framework/src/iteratees/src/main/scala/play/api/libs/iteratee/Enumerator.scala)[0m
-[0m[[0mdebug[0m] [0mStep 2 invalidated sources:[0m
-[0m[[0mdebug[0m] [0m	Set(/home/shanai/play/play-2.1.3-dash/framework/src/iteratees/src/main/scala/play/api/libs/iteratee/Enumeratee.scala, /home/shanai/play/play-2.1.3-dash/framework/src/iteratees/src/main/scala/play/api/libs/iteratee/Concurrent.scala, /home/shanai/play/play-2.1.3-dash/framework/src/iteratees/src/main/scala/play/api/libs/iteratee/package.scala, /home/shanai/play/play-2.1.3-dash/framework/src/iteratees/src/main/scala/play/api/libs/iteratee/Iteratee.scala, /home/shanai/play/play-2.1.3-dash/framework/src/iteratees/src/main/scala/play/api/libs/iteratee/Enumerator.scala, /home/shanai/play/play-2.1.3-dash/framework/src/iteratees/src/main/scala/play/api/libs/iteratee/TraversableIteratee.scala)[0m
+[0m[[0mdebug[0m] [0mInitially invalidated: Set()[0m
