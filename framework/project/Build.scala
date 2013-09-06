@@ -120,6 +120,7 @@ object PlayBuild extends Build {
             publishTo := Some(playRepository),
             scalacOptions ++= Seq("-encoding", "UTF-8", "-Xlint","-deprecation", "-unchecked", "-feature"),
             javacOptions ++= Seq("-source","1.6","-target","1.6", "-encoding", "UTF-8"),
+            javaOptions in test ++= Seq("-Xmx1024m", "-XX:MaxPermSize=512m"),
             javacOptions in doc := Seq("-source", "1.6"),
             publishArtifact in packageDoc := buildWithDoc,
             publishArtifact in (Compile, packageSrc) := true,
