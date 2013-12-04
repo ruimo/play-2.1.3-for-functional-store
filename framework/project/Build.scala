@@ -529,7 +529,7 @@ object PlayBuild extends Build {
             "com.novocode"                      %    "junit-interface"          %   "0.10"     %  "test",
 
             "com.google.code.findbugs"          %    "jsr305"                   %   "1.3.+",
-            "org.fluentlenium"                  %    "fluentlenium-festassert"  %   "0.9.0"    %  "test" exclude("org.jboss.netty", "netty"),
+            "org.fluentlenium"                  %    "fluentlenium-festassert"  %   "0.9.1"    %  "test" exclude("org.jboss.netty", "netty"),
             "org.scala-lang"                    %    "scala-reflect"            %   "2.10.0"
         )
 
@@ -603,7 +603,7 @@ object PlayBuild extends Build {
             "com.novocode"                      %    "junit-interface"          %   "0.10",
 
             "com.google.code.findbugs"          %    "jsr305"                   %   "1.3.+",
-            "org.fluentlenium"                  %    "fluentlenium-festassert"  %   "0.9.0" exclude("org.jboss.netty", "netty")
+            "org.fluentlenium"                  %    "fluentlenium-festassert"  %   "0.9.1" exclude("org.jboss.netty", "netty")
         )
 
     }
