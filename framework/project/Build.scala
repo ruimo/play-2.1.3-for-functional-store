@@ -427,7 +427,7 @@ object PlayBuild extends Build {
 
 
       val jdbcDeps = Seq(
-            ("com.jolbox"                       %    "bonecp"                   %   "0.7.1.RELEASE" notTransitive())
+            ("com.jolbox"                       %    "bonecp"                   %   "0.8.0.RELEASE" notTransitive())
               .exclude("com.google.guava", "guava")
               .exclude("org.slf4j", "slf4j-api"),
 
@@ -529,7 +529,7 @@ object PlayBuild extends Build {
             "com.novocode"                      %    "junit-interface"          %   "0.10"     %  "test",
 
             "com.google.code.findbugs"          %    "jsr305"                   %   "1.3.+",
-            "org.fluentlenium"                  %    "fluentlenium-festassert"  %   "0.9.1"    %  "test" exclude("org.jboss.netty", "netty"),
+            "org.fluentlenium"                  %    "fluentlenium-festassert"  %   "0.9.2"    %  "test" exclude("org.jboss.netty", "netty"),
             "org.scala-lang"                    %    "scala-reflect"            %   "2.10.0"
         )
 
@@ -603,7 +603,7 @@ object PlayBuild extends Build {
             "com.novocode"                      %    "junit-interface"          %   "0.10",
 
             "com.google.code.findbugs"          %    "jsr305"                   %   "1.3.+",
-            "org.fluentlenium"                  %    "fluentlenium-festassert"  %   "0.9.1" exclude("org.jboss.netty", "netty")
+            "org.fluentlenium"                  %    "fluentlenium-festassert"  %   "0.9.2" exclude("org.jboss.netty", "netty")
         )
 
     }
